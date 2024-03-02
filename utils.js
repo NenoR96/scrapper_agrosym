@@ -97,10 +97,6 @@ const processGoogleResults = async (google_results, filename) => {
     }
     console.log("PISEM");
     fs.writeFileSync(file_name, JSON.stringify(scrappedData, null, 2));
-    let arr = [];
-    scrappedData.forEach((element) => {
-      arr = arr.concat(element.emails);
-    });
     return scrappedData;
   };
 

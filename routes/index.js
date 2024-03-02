@@ -27,7 +27,7 @@ router.post("/", async (req, res) => {
     res.status(200).send(csv);
   }
   if (google_search) {
-    const data = await scrape(google_search);
+    await scrape(google_search);
     console.log("scrape");
     const csv = await downloadCSV(encodeURIComponent(google_search));
     res.set("Content-Type", "text/csv");

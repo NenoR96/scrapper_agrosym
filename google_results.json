@@ -1,38 +1,1476 @@
 {
   "search_metadata": {
-    "id": "65e2fb517d171a4c1dc6c2ad",
+    "id": "65e2fa315c56065a874ecd76",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/5a989fa99d41fc4e/65e2fb517d171a4c1dc6c2ad.json",
-    "created_at": "2024-03-02 10:11:29 UTC",
-    "processed_at": "2024-03-02 10:11:29 UTC",
-    "google_url": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=200&sourceid=chrome&ie=UTF-8",
-    "raw_html_file": "https://serpapi.com/searches/5a989fa99d41fc4e/65e2fb517d171a4c1dc6c2ad.html",
-    "total_time_taken": 2.47
+    "json_endpoint": "https://serpapi.com/searches/4964ba7e07fa91b9/65e2fa315c56065a874ecd76.json",
+    "created_at": "2024-03-02 10:06:41 UTC",
+    "processed_at": "2024-03-02 10:06:41 UTC",
+    "google_url": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=0&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4964ba7e07fa91b9/65e2fa315c56065a874ecd76.html",
+    "total_time_taken": 1.51
   },
   "search_parameters": {
     "engine": "google",
     "q": "Ziraat Fakültesi + personel",
     "google_domain": "google.com",
-    "start": 200,
+    "start": 0,
     "num": "100",
     "device": "desktop"
   },
   "search_information": {
     "query_displayed": "Ziraat Fakültesi + personel",
-    "organic_results_state": "Fully empty"
+    "organic_results_state": "Results for exact spelling"
   },
-  "dmca_messages": {
-    "title": "Notices about Filtered Results",
-    "messages": [
-      {
-        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 112 already displayed.If you like, you can repeat the search with the omitted results included.",
-        "highlighted_words": [
-          {
-            "link": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&sca_esv=33160aea3cdc4e48&filter=0",
-            "text": "repeat the search with the omitted results included"
-          }
-        ]
-      }
-    ]
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&source=univ&fir=U5fBWfc_hpriaM%252C83ZBB3dhFsLS0M%252C_%253B0Jy4EpmVpWNVeM%252Celj0s22deDiaTM%252C_%253Bp8qkHooV3k5WjM%252CX0zEQ1eQGQvUlM%252C_%253BCXKkdqpH3UvbCM%252CL5xsDJE0hr1VGM%252C_%253BDVvh79RLwV34oM%252CPGnmlxqez5wO_M%252C_%253BRfvJlZYg5Pr_tM%252CmrEnw-04g5jS0M%252C_%253BQ-VCJmHe6u2L8M%252CMAztiovDfNIrlM%252C_%253BW2jJ4AvBBD6cdM%252C1aRiKkDQiFh-BM%252C_%253BiLv4AVbGmcG-vM%252Ct-Tji9N5qEAuVM%252C_%253Bz5oLeoKQHvZZhM%252ChQJmJ_DHHbEPUM%252C_&usg=AI4_-kQGVG6JHjxwofGXFA80zoRQZ3Iz-g&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQ9AF6BAg8EAA#imgrc=U5fBWfc_hpriaM",
+      "source": "http://abs.igdir.edu.tr/akademisyenler/ziraat-fakultesi",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZFt-McCN5a7yMLi_MuLMJsNPe0_cphs_V4PXQq6oMR2ROgCEZJ7nELkQSQ&s",
+      "original": "https://eskisite.igdir.edu.tr/Addons/Resmi/Images/User-Profile/azafer-tel.webp",
+      "title": "Ziraat Fakültesi Akademik Kadro",
+      "source_name": "Akademik Bilgi Sistemi"
+    },
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&source=univ&fir=U5fBWfc_hpriaM%252C83ZBB3dhFsLS0M%252C_%253B0Jy4EpmVpWNVeM%252Celj0s22deDiaTM%252C_%253Bp8qkHooV3k5WjM%252CX0zEQ1eQGQvUlM%252C_%253BCXKkdqpH3UvbCM%252CL5xsDJE0hr1VGM%252C_%253BDVvh79RLwV34oM%252CPGnmlxqez5wO_M%252C_%253BRfvJlZYg5Pr_tM%252CmrEnw-04g5jS0M%252C_%253BQ-VCJmHe6u2L8M%252CMAztiovDfNIrlM%252C_%253BW2jJ4AvBBD6cdM%252C1aRiKkDQiFh-BM%252C_%253BiLv4AVbGmcG-vM%252Ct-Tji9N5qEAuVM%252C_%253Bz5oLeoKQHvZZhM%252ChQJmJ_DHHbEPUM%252C_&usg=AI4_-kQGVG6JHjxwofGXFA80zoRQZ3Iz-g&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQ9AF6BAhCEAA#imgrc=0Jy4EpmVpWNVeM",
+      "source": "https://ziraat.sirnak.edu.tr/tr/personel/Akademik",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtq31Tfy-kXbn-xXwi8yZZoXAPNnCqTIA2E49AI8NvSEbDoDqeLdNtHCMkQ&s",
+      "original": "https://ziraat.sirnak.edu.tr/image/userImages/_ac4dff35-82d2-4390-9851-e7bc71c88447.jpg?w=1024&h=768",
+      "title": "Ziraat Fakültesi / Personel / akademik",
+      "source_name": "Ziraat Fakültesi - Şırnak Üniversitesi"
+    },
+    {
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&source=univ&fir=U5fBWfc_hpriaM%252C83ZBB3dhFsLS0M%252C_%253B0Jy4EpmVpWNVeM%252Celj0s22deDiaTM%252C_%253Bp8qkHooV3k5WjM%252CX0zEQ1eQGQvUlM%252C_%253BCXKkdqpH3UvbCM%252CL5xsDJE0hr1VGM%252C_%253BDVvh79RLwV34oM%252CPGnmlxqez5wO_M%252C_%253BRfvJlZYg5Pr_tM%252CmrEnw-04g5jS0M%252C_%253BQ-VCJmHe6u2L8M%252CMAztiovDfNIrlM%252C_%253BW2jJ4AvBBD6cdM%252C1aRiKkDQiFh-BM%252C_%253BiLv4AVbGmcG-vM%252Ct-Tji9N5qEAuVM%252C_%253Bz5oLeoKQHvZZhM%252ChQJmJ_DHHbEPUM%252C_&usg=AI4_-kQGVG6JHjxwofGXFA80zoRQZ3Iz-g&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQ9AF6BAhbEAA#imgrc=p8qkHooV3k5WjM",
+      "source": "https://duzce.edu.tr/akademik/fakulte/zf/personel/akademik",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpY-IwAWusggQVmZeSVYFA62CcFhuL4X9rh6yPgOsCdAsNeIUDlc_SbHJlA&s",
+      "original": "https://cdn.duzce.edu.tr/File/GetFile/f18e88e2-0c7a-495f-92e9-ab30faff780a",
+      "title": "Düzce Üniversitesi | Ziraat Fakültesi - Akademik Personel",
+      "source_name": "Düzce Üniversitesi"
+    }
+  ],
+  "inline_images_suggested_searches": [
+    {
+      "name": "harran üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+%C3%BCniversitesi:LZyIK1-BBIY%3D&usg=AI4_-kTbVFV7qFuLkPDLbPn67tatC3z6SA&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAB6BAheEA4",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+%C3%BCniversitesi:LZyIK1-BBIY%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4tZLmdC0eI2w0xYTGA6VikU5fk_mkT8JGxvCUljMcQ&s"
+    },
+    {
+      "name": "atatürk üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:atat%C3%BCrk+%C3%BCniversitesi:KbmMi7pZKng%3D&usg=AI4_-kT5LtzGlQUhf14wMD_AZqUqmseT5w&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAF6BAheEBI",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:atat%C3%BCrk+%C3%BCniversitesi:KbmMi7pZKng%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq86pI8Z2gCOCUvyHthFoAs-Yg-JzatnkKC5jHZ5e2sP7ngUfCOK8_3nc97w&s"
+    },
+    {
+      "name": "özal üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:%C3%B6zal+%C3%BCniversitesi:TpJuyfbKHRI%3D&usg=AI4_-kQ5jiIViMQtbK_4EgrZlwfrcnL_CA&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAJ6BAheEBY",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:%C3%B6zal+%C3%BCniversitesi:TpJuyfbKHRI%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5VFRGxOCp7wJjUgi1tjPnJiajezLVv9J_dB0NAfvDLI4L7WPWa7rA9j3ueA&s"
+    },
+    {
+      "name": "turgut özal",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:turgut+%C3%B6zal:k5zcmSggyUw%3D&usg=AI4_-kScZ_319PQyoaYo7OXoZfAK0pRaUA&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAN6BAheEBo",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:turgut+%C3%B6zal:k5zcmSggyUw%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiltIZV2wwFy62aewGcleDTYUeJ2D5zUriMVdQ-3FbZTtDlHE3VThYRhLDkA&s"
+    },
+    {
+      "name": "çukurova üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:%C3%A7ukurova+%C3%BCniversitesi:S91Hqnakcgk%3D&usg=AI4_-kTTaLixOGug0Kyu7fEkqPvoqECzDQ&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAR6BAheEB4",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:%C3%A7ukurova+%C3%BCniversitesi:S91Hqnakcgk%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2k0eHJ5-iy7ZrQYOjXtG3GuJkEhGmG2QbbmrfmBG8dJaW51TSm9lCX9IFg&s"
+    },
+    {
+      "name": "bozok üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:bozok+%C3%BCniversitesi:nlqrCkG6T3w%3D&usg=AI4_-kT5qlxTGqisbUuV8JDdIrxqoblQOQ&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAV6BAheECI",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:bozok+%C3%BCniversitesi:nlqrCkG6T3w%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdcNRRutRQ9Iz8VsrmTH4-S0Ee4-vIOsCNlSSWV5L2_SZMLpnTyTttoFQOg&s"
+    },
+    {
+      "name": "iğdır üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:i%C4%9Fd%C4%B1r+%C3%BCniversitesi:Q8bQbcr_vmM%3D&usg=AI4_-kRXoIlHWeLiyNlvdwgvpnE66PfDDQ&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAZ6BAheECY",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:i%C4%9Fd%C4%B1r+%C3%BCniversitesi:Q8bQbcr_vmM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EMbfGcJvh-SSg3_xw7YITlzLfW3RfhRcqvxm5K9iLQ&s"
+    },
+    {
+      "name": "harran üni",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+%C3%BCni:v1cs5r1fbnQ%3D&usg=AI4_-kRUvBxG11g36knfNP_hjv5VE2J4mg&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAd6BAheECo",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+%C3%BCni:v1cs5r1fbnQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLE95lcUx1kjRK0hNThzlL7Rn_-TnHOv9y6FgGc-Z1w&s"
+    },
+    {
+      "name": "bitki koruma",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:bitki+koruma:PgTBC-DJaFs%3D&usg=AI4_-kQxjQcWCx9nzVq0kkV89Ybd92CnVA&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAh6BAheEC4",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:bitki+koruma:PgTBC-DJaFs%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpnNv9f2gxWw5d9oCPbaRc9s4xxl0GC3tjAp04nKzkxs&s"
+    },
+    {
+      "name": "akdeniz üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:akdeniz+%C3%BCniversitesi:vC4fhyJ1OFE%3D&usg=AI4_-kT4XIELXE76Zd6jOUSSGXD3NPJj1A&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAl6BAheEDI",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:akdeniz+%C3%BCniversitesi:vC4fhyJ1OFE%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNdM0EAwh6L2p9Yk1x3PTM3OKfq3UrUTqXlnOGi52IA&s"
+    },
+    {
+      "name": "malatya turgut",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:malatya+turgut&usg=AI4_-kSPvzVNpdPena1LfwFlSdMLmPXC1g&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAp6BAheEDY",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:malatya+turgut",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0"
+    },
+    {
+      "name": "uygulamalı bilimler",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:uygulamal%C4%B1+bilimler:Reh4-ADtauY%3D&usg=AI4_-kQAPP5deXpGJldzbLYt9PWdJojV-g&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAt6BAheEDk",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:uygulamal%C4%B1+bilimler:Reh4-ADtauY%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFDNki3EoYgsp1RmGz1NddIpUjU0IOxRokbIKpUy_9w&s"
+    },
+    {
+      "name": "idari personel",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:idari+personel:yO1p73QT7-I%3D&usg=AI4_-kTZMWHDISEBBSzA5HkR4w2GzBFing&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKAx6BAheED0",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:idari+personel:yO1p73QT7-I%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2daSykOWqZtvBhbs5r7XPKMwXMhx2DI_eteC7P94MwQ&s"
+    },
+    {
+      "name": "meslek yüksekokulu",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:meslek+y%C3%BCksekokulu:goPYJUfYC8Q%3D&usg=AI4_-kQGbLMJT5LY5uZsJpDPG_cHhm4Xtw&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKA16BAheEEE",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:meslek+y%C3%BCksekokulu:goPYJUfYC8Q%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOT37MVqpJ-3Z8LuU-lmE6CvCWAYa5U8Csbes92j34Q&s"
+    },
+    {
+      "name": "şırnak üniversitesi",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:%C5%9F%C4%B1rnak+%C3%BCniversitesi:7dt81QK-rXM%3D&usg=AI4_-kR2bBYGp2Gt1lQS_gvxhgWiWgdQMg&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKA56BAheEEU",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:%C5%9F%C4%B1rnak+%C3%BCniversitesi:7dt81QK-rXM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa91WHWCdqjyb8DLdXFy-or9pdny53cNNYjqEvNWnvNQ&s"
+    },
+    {
+      "name": "harran edu",
+      "link": "https://www.google.com/search?num=100&sca_esv=33160aea3cdc4e48&q=Ziraat+Fak%C3%BCltesi+%2B+personel&tbm=isch&chips=q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+edu&usg=AI4_-kQybgxDDoeErOL5-8g-bh4UZzgBsA&sa=X&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQgIoDKA96BAheEEk",
+      "chips": "q:ziraat+fak%C3%BCltesi+personel,online_chips:harran+edu",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=0"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Ziraat fakültesi mezunları mühendis mi?",
+      "snippet": "Ziraat Fakülteleri Ziraat Mühendisi, Su Ürünleri Mühendisi, Gıda Mühendisi ve Peyzaj Mimarı disiplinlerinden dört farklı meslek unvanına sahip mezunlar verilmektedir.",
+      "title": "TARIMSAL YÜKSEKÖĞRENİM ÜZERİNE BİR DEĞERLENDİRME",
+      "date": "Nov 11, 2013",
+      "link": "https://www.zmo.org.tr/genel/bizden_detay.php?kod=20783&tipi=5&sube=0#:~:text=Ziraat%20Fak%C3%BClteleri%20Ziraat%20M%C3%BChendisi%2C%20Su,meslek%20unvan%C4%B1na%20sahip%20mezunlar%20verilmektedir.",
+      "displayed_link": "https://www.zmo.org.tr › genel › bizden_detay",
+      "source_logo": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/3a2c79b8a69f4bf7fa3d8b3492c37a4d446ae648386cedc33d5a2e0dc1ff3198.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiWmlyYWF0IGZha8O8bHRlc2kgbWV6dW5sYXLEsSBtw7xoZW5kaXMgbWk/IiwibGsiOiJHaWw2YVhKaFlYUWdabUZydzd4c2RHVnphU0J0WlhwMWJteGhjc1N4SUczRHZHaGxibVJwY3lCdGFRIiwiYnMiOiJjNDJRTVFyQ1FCQkZzVjBReENxa21sYWpUUXF4Q3docVpXY2xGbzVrMVNHN0sydzJncW4wSko0aGpWVzZ4Q040RERzUFlNU29qVUw2ZVhfZV8yek8yalBTaUFaV0dHU3BNRHdra0R5T2xFQ2RKeUN6ZE1PVlR5Rkk4cXpyMkhYc1Zsd1ZZQXZXbWFJV0NFc3lBUW11eTlNSUZJY0FmZFFnRVM4blFKRW4yclB1anR1MUhWTWRZY2NhRzB5Zmp5VU1nNjNhU2lwMEJ0bFpaR2xoOGtiTGlwTzNHMEdJLXp4NUpvRE1FODg2Tk4yLTNUT3ZJUDRKS3ZHeXNQeUpFX3R1T1BwTW9ud09HMVJyZ3VWTHBtZ0NPeXc2M3VvX05fd0hOR29QIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiWmlyYWF0IGZha8O8bHRlc2kgbWV6dW5sYXLEsSBtw7xoZW5kaXMgbWk%2FIiwibGsiOiJHaWw2YVhKaFlYUWdabUZydzd4c2RHVnphU0J0WlhwMWJteGhjc1N4SUczRHZHaGxibVJwY3lCdGFRIiwiYnMiOiJjNDJRTVFyQ1FCQkZzVjBReENxa21sYWpUUXF4Q3docVpXY2xGbzVrMVNHN0sydzJncW4wSko0aGpWVzZ4Q040RERzUFlNU29qVUw2ZVhfZV8yek8yalBTaUFaV0dHU3BNRHdra0R5T2xFQ2RKeUN6ZE1PVlR5Rkk4cXpyMkhYc1Zsd1ZZQXZXbWFJV0NFc3lBUW11eTlNSUZJY0FmZFFnRVM4blFKRW4yclB1anR1MUhWTWRZY2NhRzB5Zmp5VU1nNjNhU2lwMEJ0bFpaR2xoOGtiTGlwTzNHMEdJLXp4NUpvRE1FODg2Tk4yLTNUT3ZJUDRKS3ZHeXNQeUpFX3R1T1BwTW9ud09HMVJyZ3VWTHBtZ0NPeXc2M3VvX05fd0hOR29QIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Tarla bitkileri mezunu ne kadar maaş alır?",
+      "title": "Ziraat Mühendisi İçin Maaş Geçmişi",
+      "link": "https://www.eleman.net/meslek/ziraat-muhendisi/maas",
+      "displayed_link": "https://www.eleman.net › ziraat-muhendisi › maas",
+      "source_logo": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/3a2c79b8a69f4bf7fa3d8b3492c37a4dac1784f1dbfc644dd90625eb4df32e83.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiVGFybGEgYml0a2lsZXJpIG1lenVudSBuZSBrYWRhciBtYWHFnyBhbMSxcj8iLCJsayI6IkdpdDBZWEpzWVNCaWFYUnJhV3hsY21rZ2JXVjZkVzUxSUc1bElHdGhaR0Z5SUcxaFljV2ZJR0ZzeExGeSIsImJzIjoiYzQyUU1RckNRQkJGc1YwUXhDcWttbGFqVFFxeEN3aHFaV2NsRm81azFTRzdLMncyZ3FuMEpKNGhqVlc2eENONEREc1BZTVNvalVMNmVYX2VfMnpPMmpQU2lBWldHR1NwTUR3a2tEeU9sRUNkSnlDemRNT1ZUeUZJOHF6cjJIWHNWbHdWWUF2V21hSVdDRXN5QVFtdXk5TUlGSWNBZmRRZ0VTOG5RSkVuMnJQdWp0dTFIVk1kWWNjYUcweWZqeVVNZzYzYVNpcDBCdGxaWkdsaDhrYkxpcE8zRzBHSS16eDVKb0RNRTg4Nk5OMi0zVE92SVA0Skt2R3lzUHlKRV90dU9QcE1vbndPRzFScmd1VkxwbWdDT3l3NjN1b19OX3dITkdvUCIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiVGFybGEgYml0a2lsZXJpIG1lenVudSBuZSBrYWRhciBtYWHFnyBhbMSxcj8iLCJsayI6IkdpdDBZWEpzWVNCaWFYUnJhV3hsY21rZ2JXVjZkVzUxSUc1bElHdGhaR0Z5SUcxaFljV2ZJR0ZzeExGeSIsImJzIjoiYzQyUU1RckNRQkJGc1YwUXhDcWttbGFqVFFxeEN3aHFaV2NsRm81azFTRzdLMncyZ3FuMEpKNGhqVlc2eENONEREc1BZTVNvalVMNmVYX2VfMnpPMmpQU2lBWldHR1NwTUR3a2tEeU9sRUNkSnlDemRNT1ZUeUZJOHF6cjJIWHNWbHdWWUF2V21hSVdDRXN5QVFtdXk5TUlGSWNBZmRRZ0VTOG5RSkVuMnJQdWp0dTFIVk1kWWNjYUcweWZqeVVNZzYzYVNpcDBCdGxaWkdsaDhrYkxpcE8zRzBHSS16eDVKb0RNRTg4Nk5OMi0zVE92SVA0Skt2R3lzUHlKRV90dU9QcE1vbndPRzFScmd1VkxwbWdDT3l3NjN1b19OX3dITkdvUCIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Tarım Ekonomisi Bölümü mezunu Ziraat Mühendisi sayılır mı?",
+      "snippet": "Tarım Ekonomisi Bölümü Ziraat Fakültesi bünyesinde yer alan 4 yıllık Lisans eğitim veren bir bölümdür. Bölümümüz Ankara Üniversitesi Ziraat Fakültesi'nin 11 bölümünden birisidir ve mezunlarımız Ziraat Mühendisi ünvanı ile mezun olmaktadır.",
+      "title": "Aday Öğrenciler İçin Bölüm Tanıtımı - Tarım Ekonomisi - Ankara Üniversitesi",
+      "date": "Aug 11, 2021",
+      "link": "http://ekonomi.agri.ankara.edu.tr/2021/08/04/aday-ogrenciler-icin-bolum-tanitimi/#:~:text=Tar%C4%B1m%20Ekonomisi%20B%C3%B6l%C3%BCm%C3%BC%20Ziraat%20Fak%C3%BCltesi,M%C3%BChendisi%20%C3%BCnvan%C4%B1%20ile%20mezun%20olmaktad%C4%B1r.",
+      "displayed_link": "http://ekonomi.agri.ankara.edu.tr › 2021/08/04 › aday-o...",
+      "source_logo": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/3a2c79b8a69f4bf7fa3d8b3492c37a4d160af0074052e4dddb09db336407af8f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiVGFyxLFtIEVrb25vbWlzaSBCw7Zsw7xtw7wgbWV6dW51IFppcmFhdCBNw7xoZW5kaXNpIHNhecSxbMSxciBtxLE/IiwibGsiOiJHalowWVhMRXNXMGdaV3R2Ym05dGFYTnBJRzFsZW5WdWRTQjZhWEpoWVhRZ2JjTzhhR1Z1WkdsemFTQnpZWG5Fc1d6RXNYSWdiV2siLCJicyI6ImM0MlFNUXJDUUJCRnNWMFF4Q3FrbWxhalRRcXhDd2hxWldjbEZvNWsxU0c3SzJ3MmdxbjBKSjRoalZXNnhDTjRERHNQWU1Tb2pVTDZlWF9lXzJ6TzJqUFNpQVpXR0dTcE1Ed2trRHlPbEVDZEp5Q3pkTU9WVHlGSThxenIySFhzVmx3VllBdldtYUlXQ0VzeUFRbXV5OU1JRkljQWZkUWdFUzhuUUpFbjJyUHVqdHUxSFZNZFljY2FHMHlmanlVTWc2M2FTaXAwQnRsWlpHbGg4a2JMaXBPM0cwR0kteng1Sm9ETUU4ODZOTjItM1RPdklQNEpLdkd5c1B5SkVfdHVPUHBNb253T0cxUnJndVZMcG1nQ095dzYzdW9fTl93SE5Hb1AiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiVGFyxLFtIEVrb25vbWlzaSBCw7Zsw7xtw7wgbWV6dW51IFppcmFhdCBNw7xoZW5kaXNpIHNhecSxbMSxciBtxLE%2FIiwibGsiOiJHalowWVhMRXNXMGdaV3R2Ym05dGFYTnBJRzFsZW5WdWRTQjZhWEpoWVhRZ2JjTzhhR1Z1WkdsemFTQnpZWG5Fc1d6RXNYSWdiV2siLCJicyI6ImM0MlFNUXJDUUJCRnNWMFF4Q3FrbWxhalRRcXhDd2hxWldjbEZvNWsxU0c3SzJ3MmdxbjBKSjRoalZXNnhDTjRERHNQWU1Tb2pVTDZlWF9lXzJ6TzJqUFNpQVpXR0dTcE1Ed2trRHlPbEVDZEp5Q3pkTU9WVHlGSThxenIySFhzVmx3VllBdldtYUlXQ0VzeUFRbXV5OU1JRkljQWZkUWdFUzhuUUpFbjJyUHVqdHUxSFZNZFljY2FHMHlmanlVTWc2M2FTaXAwQnRsWlpHbGg4a2JMaXBPM0cwR0kteng1Sm9ETUU4ODZOTjItM1RPdklQNEpLdkd5c1B5SkVfdHVPUHBNb253T0cxUnJndVZMcG1nQ095dzYzdW9fTl93SE5Hb1AiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Ziraat Fakültesinde hangi bölümler var?",
+      "snippet": "Lisans eğitimi, Bahçe Bitkileri, Bitki Koruma, Peyzaj Mimarlığı, Su Ürünleri Mühendisliği, Süt Teknolojisi, Tarım Ekonomisi, Tarım Makinaları ve Teknojileri Mühendisliği, Tarımsal Yapılar ve Sulama, Tarla Bitkileri, Toprak Bilimi ve Bitki Besleme ve Zootekni olmak üzere onbir ayrı programda verilmektedir.",
+      "title": "Lisans Programları - Ankara Üniversitesi Ziraat Fakültesi",
+      "date": "Jun 27, 2022",
+      "link": "http://www.agri.ankara.edu.tr/lisans-programlari/#:~:text=Lisans%20e%C4%9Fitimi%2C%20Bah%C3%A7e%20Bitkileri%2C%20Bitki,%C3%BCzere%20onbir%20ayr%C4%B1%20programda%20verilmektedir.",
+      "displayed_link": "http://www.agri.ankara.edu.tr › lisans-programlari",
+      "source_logo": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/3a2c79b8a69f4bf7fa3d8b3492c37a4d79e930b05a9da32fb95c4fbb5dd7871d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiWmlyYWF0IEZha8O8bHRlc2luZGUgaGFuZ2kgYsO2bMO8bWxlciB2YXI/IiwibGsiOiJHaWw2YVhKaFlYUWdabUZydzd4c2RHVnphVzVrWlNCb1lXNW5hU0Jpdzdac3c3eHRiR1Z5SUhaaGNnIiwiYnMiOiJjNDJRTVFyQ1FCQkZzVjBReENxa21sYWpUUXF4Q3docVpXY2xGbzVrMVNHN0sydzJncW4wSko0aGpWVzZ4Q040RERzUFlNU29qVUw2ZVhfZV8yek8yalBTaUFaV0dHU3BNRHdra0R5T2xFQ2RKeUN6ZE1PVlR5Rkk4cXpyMkhYc1Zsd1ZZQXZXbWFJV0NFc3lBUW11eTlNSUZJY0FmZFFnRVM4blFKRW4yclB1anR1MUhWTWRZY2NhRzB5Zmp5VU1nNjNhU2lwMEJ0bFpaR2xoOGtiTGlwTzNHMEdJLXp4NUpvRE1FODg2Tk4yLTNUT3ZJUDRKS3ZHeXNQeUpFX3R1T1BwTW9ud09HMVJyZ3VWTHBtZ0NPeXc2M3VvX05fd0hOR29QIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWVHbG1jbXh2WDFaWGVHaDVXQzFDUldwVlVGWnJNRGN4TTBkcGRreHhjV2d3WTJGRE1EQmlTVGt5V0RSaWQyYzVUVVZ6Y0RoUFZtTXRjVEZTWjBsa2FVTXpabVV5RWhkTlpuSnBXbUpVUkVvMVgydzFUbTlRTm5WTFMzVkJPQm9pUVZCWWFHMDFZVlp6YXpsd09HMXNXak5QVWtRdFJETllORWRuT0VVdGNIRTBVUSIsImZjdiI6IjMiLCJlaSI6Ik1mcmlaYlRESjVfbDVOb1A2dUtLdUE4IiwicWMiOiJDaHA2YVhKaFlYUWdabUZydzd4c2RHVnphU0J3WlhKemIyNWxiQkFoZlVoMFREOCIsInF1ZXN0aW9uIjoiWmlyYWF0IEZha8O8bHRlc2luZGUgaGFuZ2kgYsO2bMO8bWxlciB2YXI%2FIiwibGsiOiJHaWw2YVhKaFlYUWdabUZydzd4c2RHVnphVzVrWlNCb1lXNW5hU0Jpdzdac3c3eHRiR1Z5SUhaaGNnIiwiYnMiOiJjNDJRTVFyQ1FCQkZzVjBReENxa21sYWpUUXF4Q3docVpXY2xGbzVrMVNHN0sydzJncW4wSko0aGpWVzZ4Q040RERzUFlNU29qVUw2ZVhfZV8yek8yalBTaUFaV0dHU3BNRHdra0R5T2xFQ2RKeUN6ZE1PVlR5Rkk4cXpyMkhYc1Zsd1ZZQXZXbWFJV0NFc3lBUW11eTlNSUZJY0FmZFFnRVM4blFKRW4yclB1anR1MUhWTWRZY2NhRzB5Zmp5VU1nNjNhU2lwMEJ0bFpaR2xoOGtiTGlwTzNHMEdJLXp4NUpvRE1FODg2Tk4yLTNUT3ZJUDRKS3ZHeXNQeUpFX3R1T1BwTW9ud09HMVJyZ3VWTHBtZ0NPeXc2M3VvX05fd0hOR29QIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ziraat Fakültesi - Aydın Adnan Menderes Üniversitesi",
+      "link": "https://akademik.adu.edu.tr/fakulte/ziraat/?s=personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://akademik.adu.edu.tr/fakulte/ziraat/%3Fs%3Dpersonel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECBUQAQ",
+      "displayed_link": "https://akademik.adu.edu.tr › fakulte",
+      "snippet": "Akademik Personel · Prof.Dr. Ahmet Kılıçkan · Prof.Dr. Ahmet Okumuş · Prof.Dr. Altuğ Özden · Prof.Dr. Atakan Koç · Prof.Dr. Aydın Ünay · Prof.Dr. Ayhan Yıldız · Prof.",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Aydın Adnan Menderes Üniversitesi"
+    },
+    {
+      "position": 2,
+      "title": "Akademik Personel – Ziraat Fakültesi - Birim Web Siteleri",
+      "link": "https://birimler.atauni.edu.tr/ziraat-fakultesi/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://birimler.atauni.edu.tr/ziraat-fakultesi/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECBMQAQ",
+      "displayed_link": "https://birimler.atauni.edu.tr › akad...",
+      "snippet": "Akademik Kadro · Prof. Dr. Abdulkadir Çiltaş · Prof. Dr. Abdurrahman Hanay · Prof. Dr. Adem Aksoy · Prof. Dr. Adem Kaya · Prof. Dr. Ahmet Çelik · Prof. Dr. Ahmet ...",
+      "source": "Atatürk University"
+    },
+    {
+      "position": 3,
+      "title": "Fakültemiz Akademik Personeli",
+      "link": "https://uludag.edu.tr/ziraat/konu/view?id=2386&title=fakultemiz-akademik-personeli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uludag.edu.tr/ziraat/konu/view%3Fid%3D2386%26title%3Dfakultemiz-akademik-personeli&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECBIQAQ",
+      "displayed_link": "https://uludag.edu.tr › konu › view",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e53aa30cc6761ac0f41b0754f70d8a5be.png",
+      "snippet": "PEYZAJ MİMARLIĞI BÖLÜMÜ AKADEMİK PERSONELİ · Prof. Dr. Murat ZENCİRKIRAN · Prof. Dr. Nilüfer SEYİDOĞLU AKDENİZ · Doç. Dr. Aysun ÇELİK ÇANGA · Doç. Dr. Elvan ENDER ...",
+      "snippet_highlighted_words": [
+        "PERSONELİ"
+      ],
+      "source": "Bursa Uludağ Üniversitesi"
+    },
+    {
+      "position": 4,
+      "title": "Bölümler Akademik Kadro",
+      "link": "http://www.agri.ankara.edu.tr/bolumler-akademik-kadro/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.agri.ankara.edu.tr/bolumler-akademik-kadro/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECBYQAQ",
+      "displayed_link": "http://www.agri.ankara.edu.tr › bol...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ebac65d74c7fcf3bde8d1324e6d6fe2ea.png",
+      "date": "Aug 18, 2015",
+      "snippet": "Akademik Personel · Prof. Dr. Ali İhsan ACAR · Prof. Dr. Musa AYIK · Prof. Dr. İbrahim ÇİLİNGİR · Prof. Dr. Ahmet ÇOLAK · Prof. Dr. Ergin DURSUN ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Ankara Üniversitesi Ziraat Fakültesi"
+    },
+    {
+      "position": 5,
+      "title": "Akademik Kadro - Ziraat Fakültesi - Erciyes Üniversitesi",
+      "link": "https://ziraat.erciyes.edu.tr/tr/akademik/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.erciyes.edu.tr/tr/akademik/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECBQQAQ",
+      "displayed_link": "https://ziraat.erciyes.edu.tr › akade...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ec2eea2299d1d0fa81ec6194eeb47f38a.png",
+      "snippet": ": Prof. Dr. Ercan YILDIZ · : +90 352 207 6666 Dahili: 38551 · : ercanyildiz@erciyes.edu.tr ; : Prof. Dr. Aydın UZUN · : +90 352 207 6666 Dahili: 38552 · : aydinuzun@ ...",
+      "source": "Erciyes Üniversitesi"
+    },
+    {
+      "position": 6,
+      "title": "Personel Dahili Telefonlar - ÇOMÜ-Ziraat Fakültesi",
+      "link": "https://ziraat.comu.edu.tr/personel-dahili-telefonlar-r24.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.comu.edu.tr/personel-dahili-telefonlar-r24.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECC0QAQ",
+      "displayed_link": "https://ziraat.comu.edu.tr › personel...",
+      "snippet": "BAHÇE BİTKİLERİ BÖLÜMÜ ; Prof. Dr. Zeliha GÖKBAYRAK. Öğretim Üyesi. 23092 ; Doç. Dr. Canan ÖZTOKAT KUZUCU. Öğretim Üyesi. 23088 ; Doç. Dr. Harun ÇOBAN. Öğretim ...",
+      "source": "ÇOMÜ-Ziraat Fakültesi"
+    },
+    {
+      "position": 7,
+      "title": "- Selçuk Üniversitesi - Ziraat Fakültesi",
+      "link": "https://www.selcuk.edu.tr/Birim/fakulteler/ziraat_fakultesi/1834/Person/Akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.selcuk.edu.tr/Birim/fakulteler/ziraat_fakultesi/1834/Person/Akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIMCEAE",
+      "displayed_link": "https://www.selcuk.edu.tr › Birim › Person › Akademik",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e5956b7bc8344fd519a9c3be9c41251b4.png",
+      "snippet": "Prof. Dr. SAİT GEZGİN · Prof. Dr. MUSTAFA HARMANKAYA · Dr. Öğr. Üyesi. OSMAN DOĞAN · Prof. Dr. ALİ SABIR · Prof. Dr. ZEKİ KARA · Prof. AHMET EŞİTKEN · Prof. Dr. ERTAN ...",
+      "source": "- Selçuk Üniversitesi -"
+    },
+    {
+      "position": 8,
+      "title": "Akademik Kadro | Ziraat Fakültesi",
+      "link": "https://ziraat.subu.edu.tr/tr/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.subu.edu.tr/tr/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECCwQAQ",
+      "displayed_link": "https://ziraat.subu.edu.tr › akadem...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e820a3199b9b9c690d9c1cd926f3f364c.png",
+      "snippet": "Dr. Öğr. Üyesi Gizem Cengiz GÖKÇE. Peyzaj Mimarlığı Bölümü. gizemgokce.subu.edu.tr · Dr. Öğr. Üyesi Necibe KAYAK. Bahçe Bitkileri Bölümü. necibekayak.subu.edu.",
+      "source": "Sakarya Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "position": 9,
+      "title": "Akademik Personel - Samsun - Ziraat Fakültesi - OMÜ",
+      "link": "https://ziraat.omu.edu.tr/tr/akademik/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.omu.edu.tr/tr/akademik/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCI8BEAE",
+      "displayed_link": "https://ziraat.omu.edu.tr › akademik",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e41ffbc3a0eb5c29d1f92f8f0b048a042.png",
+      "snippet": "Akademik Personel · Akademik · Profesör Zeki ACAR · Profesör İzzet AKÇA · Profesör Hasan Murat AKSOY · Profesör Hakan ARSLAN · Profesör Savaş ATASEVER · Profesör Ali ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "OMÜ | Ondokuz Mayıs Üniversitesi"
+    },
+    {
+      "position": 10,
+      "title": "Akademik Personel - Ziraat Fakültesi",
+      "link": "https://duzce.edu.tr/akademik/fakulte/zf/personel/akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://duzce.edu.tr/akademik/fakulte/zf/personel/akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCPoBEAE",
+      "displayed_link": "https://duzce.edu.tr › fakulte › akad...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ed2090691cdaf76fc5bf798d7904d6b03.png",
+      "snippet": "Akademik Personel · Tüm · Bahçe Bitkileri · Bitki Koruma · Biyosistem Mühendisliği · Tarımsal Biyoteknoloji · Tarla Bitkileri. Dekan V. Prof. Dr. Aybike Ayfer ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Düzce Üniversitesi"
+    },
+    {
+      "position": 11,
+      "title": "Akademik Kadro",
+      "link": "https://ziraat.isparta.edu.tr/tr/personel/akademik-kadro-2723s.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.isparta.edu.tr/tr/personel/akademik-kadro-2723s.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKYCEAE",
+      "displayed_link": "https://ziraat.isparta.edu.tr › personel",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0efceade909f5942da8894346e999a1b43.png",
+      "snippet": "Akademik Kadro · Bahçe Bitkileri Bölümü · Bitki Koruma Bölümü · Tarım Ekonomisi Bölümü · Tarım Makinaları ve Teknolojileri Mühendisliği Bölümü · Tarımsal ...",
+      "source": "Isparta Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "position": 12,
+      "title": "TELEFON REHBERİ (İDARİ PERSONEL)",
+      "link": "http://www.agri.ankara.edu.tr/telefon-rehberi-idari-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.agri.ankara.edu.tr/telefon-rehberi-idari-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECGEQAQ",
+      "displayed_link": "http://www.agri.ankara.edu.tr › tele...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e1d6a9db44aa438cc203b041129101588.png",
+      "date": "Jan 2, 2024",
+      "snippet": "Ziraat Yük. Müh. İlker ERESEN, 5961092. MÜZE, Ersin ÖZKAN. akademiktel. Ankara Üniversitesi Ziraat Fakültesi 06110 Dışkapı – Ankara Tel: 0312 ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi"
+      ],
+      "source": "Ankara Üniversitesi Ziraat Fakültesi"
+    },
+    {
+      "position": 13,
+      "title": "Ziraat Fakültesi - Tekirdağ Namık Kemal Üniversitesi",
+      "link": "https://ziraat.nku.edu.tr/Personel%C4%B0dari/0/s/9860/684",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.nku.edu.tr/Personel%25C4%25B0dari/0/s/9860/684&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECGAQAQ",
+      "displayed_link": "https://ziraat.nku.edu.tr › Personelİ...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e31d3fe18f06639bca35978437c05d6e4.png",
+      "snippet": "FAKÜLTE SEKRETERİ AYLA PİLATİN · BİLGİSAYAR İŞLETMENİ YAKUP GÖNÜLTAŞ · BİLGİSAYAR İŞLETMENİ SİBEL KARATAŞ · MÜHENDİS SİNAN KESEPARA · AYNİYAT SAYMANI HASAN ECE.",
+      "snippet_highlighted_words": [
+        "FAKÜLTE"
+      ],
+      "source": "Tekirdağ Namık Kemal Üniversitesi"
+    },
+    {
+      "position": 14,
+      "title": "Akademik Personel",
+      "link": "https://ziraat.erdogan.edu.tr/tr/akademikpersonel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.erdogan.edu.tr/tr/akademikpersonel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJABEAE",
+      "displayed_link": "https://ziraat.erdogan.edu.tr › akade...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ef68d93870d28a069653eea65e1c3f226.png",
+      "snippet": "TARLA BİTKİLERİ · Prof. Dr. FATİH SEYİS · Dr. Öğr. Üyesi ÖNDER ALBAYRAK · Dr. Öğr. Üyesi YUSUF ŞAVŞATLI · Dr. Öğr. Üyesi EMİNE YURTERİ · Dr. Öğr. Üyesi HANDAN ...",
+      "source": "Recep Tayyip Erdoğan Üniversitesi, Ziraat Fakültesi"
+    },
+    {
+      "position": 15,
+      "title": "Akademik personel - Ziraat Fakültesi",
+      "link": "https://ziraat.ozal.edu.tr/?page_id=6677",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ozal.edu.tr/%3Fpage_id%3D6677&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMUBEAE",
+      "displayed_link": "https://ziraat.ozal.edu.tr › ...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e41c9d06443d50a8e9c83d74e0e5d292f.png",
+      "snippet": "Akademik personel ; Prof. Dr. Nihat TURSUN. Öğretim Üyesi. E-posta: nihat.tursun@ozal.edu.tr. Telefon: 0422 846 12 55 - 1167 ; Doç. Dr. Mehmet KARACAOĞLU. Öğretim ...",
+      "snippet_highlighted_words": [
+        "personel"
+      ],
+      "source": "Malatya Turgut Özal Üniversitesi"
+    },
+    {
+      "position": 16,
+      "title": "Van Yüzüncü Yıl Üniversitesi Ziraat Fakültesi Personel Ara",
+      "link": "https://www.yyu.edu.tr/Birimler/16/personel-ara",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yyu.edu.tr/Birimler/16/personel-ara&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOQBEAE",
+      "displayed_link": "https://www.yyu.edu.tr › Birimler",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0eaa062e519c53ef090f952d473e8c870c.png",
+      "snippet": "Personel Ara · Prof. Dr. Abdullah Yeşilova · Prof. Dr. Ahmet Tekeli · Prof. Dr. Diğdem Arpalı · Prof. Dr. Ferit Çelik · Prof. Dr. Fikret Yaşar · Prof. Dr. Filiz ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Van Yüzüncü Yıl Üniversitesi"
+    },
+    {
+      "position": 17,
+      "title": "Öğretim Üyeleri/Görevlileri - Ziraat Fakültesi",
+      "link": "https://ziraat.akdeniz.edu.tr/tr/ogretim_uyelerigorevlileri-2917",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.akdeniz.edu.tr/tr/ogretim_uyelerigorevlileri-2917&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCP8BEAE",
+      "displayed_link": "https://ziraat.akdeniz.edu.tr › ogret...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ecee6e641f016475a03ed0e7a8e817a25.png",
+      "snippet": "Öğretim Üyeleri/Görevlileri ; Dr. Öğr. Üyesi, İlhami TOZLU, Bahçe Bitkileri ; Dr. Öğr. Üyesi, Tuğçe ÖZSAN KILIÇ, Bahçe Bitkileri ; Prof. Dr. Hüseyin BASIM, Bitki ...",
+      "source": "Akdeniz Üniversitesi"
+    },
+    {
+      "position": 18,
+      "title": "Akademik ve İdari Tüm Personelle ... - KSÜ - Ziraat Fakültesi",
+      "link": "https://ziraat.ksu.edu.tr/Default.aspx?SId=1342",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ksu.edu.tr/Default.aspx%3FSId%3D1342&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJsCEAE",
+      "displayed_link": "https://ziraat.ksu.edu.tr › Default",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e7b75b5f9d9b5040d131a5d3a837942ab.png",
+      "snippet": "Yönetim. Fakülte Yönetim Kurulu. Fakülte Kurulu. Akademik Kadro. Senato Temsilcisi. İdari Personel. Akademik ve İdari Tüm Personelle İlgili Haberleri ...",
+      "snippet_highlighted_words": [
+        "Fakülte",
+        "Fakülte",
+        "Personel",
+        "Personelle"
+      ],
+      "source": "KSÜ - Ziraat Fakültesi"
+    },
+    {
+      "position": 19,
+      "title": "Akademik Personel - ZİRAAT FAKÜLTESİ",
+      "link": "https://ziraat.bingol.edu.tr/personel/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.bingol.edu.tr/personel/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJ0CEAE",
+      "displayed_link": "https://ziraat.bingol.edu.tr › personel",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ee6928932b68a94b6eb579512a699c267.png",
+      "snippet": "Akademik Personel · Prof. Dr. ALAADDİN YÜKSEL · TOPRAK BİLİMİ VE BİTKİ BESLEME · Prof. Dr. ALİ RIZA DEMİRKIRAN · TOPRAK BİLİMİ VE BİTKİ BESLEME · Prof. Dr. ERKAN ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "BİNGÖL ÜNİVERSİTESİ"
+    },
+    {
+      "position": 20,
+      "title": "Akademik Personel – Ziraat ve Doğa Bilimleri Fakültesi",
+      "link": "http://w3.bilecik.edu.tr/ziraat/fakultemiz/personel/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://w3.bilecik.edu.tr/ziraat/fakultemiz/personel/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCI0CEAE",
+      "displayed_link": "http://w3.bilecik.edu.tr › ziraat › fakultemiz › akademik-...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e48dd5756d7fbb7b52f575782ed4eaf90.jpeg",
+      "snippet": "Ziraat ve Doğa Bilimleri Fakültesi · Akademik Personel.",
+      "snippet_highlighted_words": [
+        "Ziraat",
+        "Fakültesi",
+        "Personel"
+      ],
+      "source": "Bilecik Şeyh Edebali Üniversitesi"
+    },
+    {
+      "position": 21,
+      "title": "Ziraat Fakültesi / Personel / akademik - Şırnak Üniversitesi",
+      "link": "https://ziraat.sirnak.edu.tr/tr/personel/Akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.sirnak.edu.tr/tr/personel/Akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEwQAQ",
+      "displayed_link": "https://ziraat.sirnak.edu.tr › personel",
+      "snippet": "Prof. Dr. MEHMET ŞİMŞEK · Doç. Dr. FERHAT ÖZTÜRK · Dr. Öğr. Üyesi GÜLSÜM PALACIOĞLU · Doç. Dr. ÖZGÜR KARAKAŞ · Dr. Öğr. Üyesi ESENGÜL ÖZDEMİR · Dr. Öğr. Üyesi NEVZAT ...",
+      "source": "Şırnak Üniversitesi"
+    },
+    {
+      "position": 22,
+      "title": "Akademik Kadro - BAİBÜ - Ziraat Fakültesi",
+      "link": "http://zdf.ibu.edu.tr/idari-personel/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://zdf.ibu.edu.tr/idari-personel/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHcQAQ",
+      "displayed_link": "http://zdf.ibu.edu.tr › idari-personel",
+      "date": "Dec 25, 2023",
+      "snippet": "Akademik Kadro ; Ünvan. Ad Soyad. Telefon. Email. Prof. Dr. Mehmet Erhan GÖRE. 0374 254 10 00 / 6224. egore@ibu.edu.tr ; Ünvan. Ad Soyad. Telefon.",
+      "source": "BAİBÜ - Ziraat Fakültesi"
+    },
+    {
+      "position": 23,
+      "title": "Akademik Kadro - Ziraat Fakültesi",
+      "link": "https://www.yyu.edu.tr/Birimler/16/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yyu.edu.tr/Birimler/16/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHkQAQ",
+      "displayed_link": "https://www.yyu.edu.tr › Birimler",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ecdc4733376e610ec0760f89b7a38d4ec.png",
+      "snippet": "Akademik Kadro. Abdullah Yeşilova. Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof. Dr. ... Prof.",
+      "source": "Van Yüzüncü Yıl Üniversitesi"
+    },
+    {
+      "position": 24,
+      "title": "Fakülte Personeli - Ziraat Fakültesi - Akdeniz Üniversitesi",
+      "link": "https://ziraat.akdeniz.edu.tr/tr/fakulte_personeli-2919",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.akdeniz.edu.tr/tr/fakulte_personeli-2919&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJEBEAE",
+      "displayed_link": "https://ziraat.akdeniz.edu.tr › fakul...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e1603e7b403cef36048ae4c84925893b2.png",
+      "snippet": "Fakülte Personeli ; Osman CAN. Yazı işleri. 6504 ; Mehmet EFE. Yazı işleri. 3706 ; Abdullah ALBAYRAK. Mali İşler (TÜBİTAK projeleri). 6552 ; Mehmet KARAKUŞ. Mali ...",
+      "snippet_highlighted_words": [
+        "Fakülte Personeli"
+      ],
+      "source": "Akdeniz Üniversitesi"
+    },
+    {
+      "position": 25,
+      "title": "Fakültemiz İdari Personeli",
+      "link": "https://uludag.edu.tr/ziraat/konu/view?id=2387&title=fakultemiz-idari-personeli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uludag.edu.tr/ziraat/konu/view%3Fid%3D2387%26title%3Dfakultemiz-idari-personeli&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLABEAE",
+      "displayed_link": "https://uludag.edu.tr › konu › view",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e3a2381267f9b4bfbf44ec944757f6339.png",
+      "snippet": "Bahçe Bitkileri Bölümü - Gülnur CANBOLAT - 0 224 294 14 70 - E-Posta Gönder · Bitki Koruma Bölümü - Ayşe ÇELİK - 0 224 294 15 70 - E-Posta Gönder · Toprak Bilimi ...",
+      "source": "Bursa Uludağ Üniversitesi"
+    },
+    {
+      "position": 26,
+      "title": "Akademik Personel - Ziraat Fakültesi - Ahi Evran Üniversitesi",
+      "link": "https://ziraat.ahievran.edu.tr/hakkimizda/tanitim/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ahievran.edu.tr/hakkimizda/tanitim/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMYBEAE",
+      "displayed_link": "https://ziraat.ahievran.edu.tr › tanitim",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e30c10d35f0577545df601b4aa8a6b883.png",
+      "date": "Oct 25, 2021",
+      "snippet": "Akademik Personel ; 9. Araş. Gör. ; 10, Araş. Gör. ; BİTKİ KORUMA BÖLÜM BAŞKANLIĞI. Bölüm Başkanı: Prof. Dr. Ali SEVİM ; Sıra No. Ünvanı ; 1. Prof.",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Ahi Evran Üniversitesi"
+    },
+    {
+      "position": 27,
+      "title": "Akademik Personel",
+      "link": "https://ziraat.mu.edu.tr/tr/personel/akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.mu.edu.tr/tr/personel/akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCN8BEAE",
+      "displayed_link": "https://ziraat.mu.edu.tr › personel",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e157477102f79f77cf9195e094d00d1bb.png",
+      "snippet": "Fethiye Ziraat Fakültesi. Menu. ANASAYFA; KURUMSAL. HAKKIMIZDA · VİZYON & MİSYON ... Akademik Personel. Prof.Dr.ŞABAN KORDALI. Şaban KORDALI. Prof.Dr. Dekan ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "Personel"
+      ],
+      "source": "Muğla Sıtkı Koçman Üniversitesi"
+    },
+    {
+      "position": 28,
+      "title": "Ziraat Fakültesi Akademik Kadro",
+      "link": "http://abs.igdir.edu.tr/akademisyenler/ziraat-fakultesi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://abs.igdir.edu.tr/akademisyenler/ziraat-fakultesi&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOcBEAE",
+      "displayed_link": "http://abs.igdir.edu.tr › ziraat-fakult...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e84ae5a59696121002b3866c897883af4.png",
+      "snippet": "Ziraat Fakültesi Akademik Kadro · Ahmet Zafer TEL · Bilal KESKİN · Bünyamin YILDIRIM · Celalettin GÖZÜAÇIK · Erkan BOYDAK · Fariz MİKAİLSOY · Sefa ALTIKAT · Senayi ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi"
+      ],
+      "source": "Iğdır Üniversitesi"
+    },
+    {
+      "position": 29,
+      "title": "AKADEMİK KADROMUZ | Eskişehir Osmangazi Üniversitesi",
+      "link": "https://ziraat.ogu.edu.tr/Sayfa/Index/235/akademik-kadromuz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ogu.edu.tr/Sayfa/Index/235/akademik-kadromuz&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOgBEAE",
+      "displayed_link": "https://ziraat.ogu.edu.tr › Index › a...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ea84c8561ff250925b50ec797596eb4f5.png",
+      "snippet": "DEKAN V. · DEKAN YARDIMCILARI · BAHÇE BİTKİLERİ BÖLÜMÜ · BİTKİ KORUMA BÖLÜMÜ · TARIMSAL BİYOTEKNOLOJİ BÖLÜMÜ · TARLA BİTKİLERİ BÖLÜMÜ · TARIM EKONOMİSİ BÖLÜMÜ · TOPRAK ...",
+      "source": "ESOGÜ Ziraat Fakültesi"
+    },
+    {
+      "position": 30,
+      "title": "Akademik Personel",
+      "link": "https://ziraat.ozal.edu.tr/en/?page_id=6952/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ozal.edu.tr/en/%3Fpage_id%3D6952/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIICEAE",
+      "displayed_link": "https://ziraat.ozal.edu.tr › ...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e9716938ed72613485b0dbe9b22c383ec.png",
+      "snippet": "Academical personal ; Prof. Dr. Bayram Murat ASMA · E-mail: bayram.asma@ozal.edu.tr. Telephone: 0422 846 12 55 - 1245 ; Prof. Dr. Hakan YILDIRIM · E-mail: hakan.",
+      "source": "Malatya Turgut Özal Üniversitesi"
+    },
+    {
+      "position": 31,
+      "title": "Ziraat Fakültesi - Namık Kemal Üniversitesi",
+      "link": "https://ziraat.nku.edu.tr/staffpage/0/s/4584/4769",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.nku.edu.tr/staffpage/0/s/4584/4769&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIcCEAE",
+      "displayed_link": "https://ziraat.nku.edu.tr › staffpage",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e00ddf78cdb2d8be75100fb97b570ec9d.png",
+      "snippet": "Prof. Dr. MEHMET İHSAN SOYSAL · Prof. Dr. BÜLENT EKER · Prof. Dr. LOKMAN DELİBAŞ · Prof. Dr. SERVET VARIŞ · Prof. Dr. BAHATTİN AKDEMİR · Prof. Dr. BİROL KAYİŞOĞLU.",
+      "source": "Tekirdağ Namık Kemal ��niversitesi"
+    },
+    {
+      "position": 32,
+      "title": "Akademik Kadro - Ziraat Fakültesi - Uşak Üniversitesi",
+      "link": "https://ziraat.usak.edu.tr/kadro/akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.usak.edu.tr/kadro/akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJwCEAE",
+      "displayed_link": "https://ziraat.usak.edu.tr › kadro › a...",
+      "snippet": "Daha iyi bir kullanıcı deneyimi sunabilmek için çerezler(cookie) kullanılmaktadır.Çerezler hakkında detaylı bilgi almak için Çerez Politikası'nı ...",
+      "source": "Uşak Üniversitesi"
+    },
+    {
+      "position": 33,
+      "title": "Akademik Personel - Ziraat Fakültesi - Harran Üniversitesi",
+      "link": "http://ziraat.harran.edu.tr/tr/personel/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ziraat.harran.edu.tr/tr/personel/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKECEAE",
+      "displayed_link": "http://ziraat.harran.edu.tr › personel",
+      "date": "Dec 8, 2020",
+      "snippet": "Akademik Personel ; 5, DR.ÖĞR.Ü. REMZİYE ; 6, DR.ÖĞR.Ü. FATMA ; 7, DR.ÖĞR.Ü. GÖNÜL ; 8, ARŞ.GÖR.DR. MUHAMMET ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Harran Üniversitesi"
+    },
+    {
+      "position": 34,
+      "title": "Akademik",
+      "link": "https://ziraat.siirt.edu.tr/personel/akademik/739614.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.siirt.edu.tr/personel/akademik/739614.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLUCEAE",
+      "displayed_link": "https://ziraat.siirt.edu.tr › personel",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e02522cbeab76711c4e68e784aa8fe57f.png",
+      "snippet": "Akademik · Prof.Dr. ALİ BEYHAN UÇAK · Prof.Dr. ÇETİN KARADEMİR · Prof.Dr. EMİNE KARADEMİR · Prof.Dr. EMİNE KÜÇÜKER · Prof.Dr. ERDAL NECİP YARDIM · Prof.Dr. KORAY ...",
+      "source": "Siirt Üniversitesi"
+    },
+    {
+      "position": 35,
+      "title": "Ziraat Fakültesi",
+      "link": "https://bozok.edu.tr/okul/ziraat-fakultesi/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bozok.edu.tr/okul/ziraat-fakultesi/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLkCEAE",
+      "displayed_link": "https://bozok.edu.tr › ziraat-fakultesi",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e70ad44d75b90fe6c2c08a479c83c506c.png",
+      "snippet": "Ziraat Fakültesi · Ana Sayfa · Duyurular · Fakültemiz · Yönetim · Personel · Bölümler · Etkinlikler & Faaliyetler · Kalite Yönetim Sistemi ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "Personel"
+      ],
+      "source": "Bozok Üniversitesi"
+    },
+    {
+      "position": 36,
+      "title": "Akademik Kadro - Ziraat Fakültesi",
+      "link": "https://ziraat.isparta.edu.tr/bitkikoruma/tr/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.isparta.edu.tr/bitkikoruma/tr/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEQQAQ",
+      "displayed_link": "https://ziraat.isparta.edu.tr › akade...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e034ca80670a6db101c47a85a55ee17d4.png",
+      "snippet": "Akademik Kadro · Rüstem HAYAT · Gürsel KARACA · Recep AY · Bayram ÇEVİK · Hülya ÖZGÖNEN ÖZKAYA · Şerife Evrim ARICI ŞENKAYNAĞI · SİBEL YORULMAZ · Ali Kemal ...",
+      "source": "Isparta Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "position": 37,
+      "title": "İdari Personel - Kayseri - Ziraat Fakültesi - Erciyes Üniversitesi",
+      "link": "https://ziraat.erciyes.edu.tr/tr/idari/idari-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.erciyes.edu.tr/tr/idari/idari-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEUQAQ",
+      "displayed_link": "https://ziraat.erciyes.edu.tr › idari",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ededc390788a81e1813ac1e8012f76781.png",
+      "snippet": ": FAKÜLTE SEKRETERİ · : · : none@erciyes.edu.tr ; : Kuddusi KURU · : · : kuru@erciyes.edu.tr ; : Metin GÖNÜLTAŞ · : Süt Tesisi Sorumlusu · : metingonultas@erciyes.edu.",
+      "snippet_highlighted_words": [
+        "FAKÜLTE"
+      ],
+      "source": "Erciyes Üniversitesi"
+    },
+    {
+      "position": 38,
+      "title": "İdari Personel - T.C. ORDU ÜNİVERSİTESİ ZİRAAT FAKÜLTESİ",
+      "link": "https://ziraat.odu.edu.tr/Page/81/idari_personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.odu.edu.tr/Page/81/idari_personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEkQAQ",
+      "displayed_link": "https://ziraat.odu.edu.tr › Page › i...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e0d73ed2249390ec22761e2cb062bb1ed.png",
+      "date": "Nov 28, 2018",
+      "snippet": "İdari Personel ; İdris ŞILBIR. Fakülte Sekreteri. Ziraat Fak. ; Kamuran ÇAKAR. Daimi İşçi. Dekan Sekreteri ; Hamide Gülsüm ŞAHİN. Sağlık Tek.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Ziraat Fak"
+      ],
+      "source": "Ordu Üniversitesi"
+    },
+    {
+      "position": 39,
+      "title": "Akademik Kadro",
+      "link": "https://ziraat.gop.edu.tr/KadroAkademik.aspx?d=tr-TR&mk=32876&m=akademik_kadro&bidr=11209&bid=11713",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.gop.edu.tr/KadroAkademik.aspx%3Fd%3Dtr-TR%26mk%3D32876%26m%3Dakademik_kadro%26bidr%3D11209%26bid%3D11713&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECF8QAQ",
+      "displayed_link": "https://ziraat.gop.edu.tr › KadroAka...",
+      "snippet": "Gaziosmanpaşa Üniversitesi Ziraat Fakültesi Dekanlığı 60240 Taşlıçiftlik Yerleşkesi – Tokat/Türkiye Tasarım: Bilgi İşlem Daire Başkanlığı [Web Grubu], 2018© Tüm ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi"
+      ],
+      "source": "Tokat Gaziosmanpaşa Üniversitesi Ziraat Fakültesi"
+    },
+    {
+      "position": 40,
+      "title": "Akademik Personel - BİTKİ KORUMA - Çukurova Üniversitesi",
+      "link": "https://bitkikoruma.cu.edu.tr/cu/staff/academic-staff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitkikoruma.cu.edu.tr/cu/staff/academic-staff&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECGQQAQ",
+      "displayed_link": "https://bitkikoruma.cu.edu.tr › staff › academic-staff",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ea7555c5e1cbb4e3c7dff8d3e2f912c5a.png",
+      "snippet": "Akademik Personel ; Prof. Dr. M. Rifat ULUSOY · (Bölüm Başkanı). Dahili Telefon: 2166. Telefon: +90 322 338 67 52 ; Dr. Öğr. Üyesi Orhan BOZAN · (Bölüm Başkan ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Çukurova Üniversitesi"
+    },
+    {
+      "position": 41,
+      "title": "Akademik Kadro - Samsun - Ziraat Fakültesi - OMÜ",
+      "link": "https://ziraat.omu.edu.tr/tr/akademik/akademik-birimler/bitki-koruma-boeluemue/akademik-kadro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.omu.edu.tr/tr/akademik/akademik-birimler/bitki-koruma-boeluemue/akademik-kadro&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHoQAQ",
+      "displayed_link": "https://ziraat.omu.edu.tr › akademik",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e632356cf27ee217d8b14f681b20b62fb.png",
+      "snippet": "Akademik ; Entomoloji, Araş. Gör. Ali Kaan AŞKIN, ali.askin@omu.edu.tr ; Entomoloji, Araş. Gör. Abdullah Okan SEÇER, okan.secer@omu.edu.tr ; Fitopatoloji, Prof. Dr ...",
+      "source": "OMÜ | Ondokuz Mayıs Üniversitesi"
+    },
+    {
+      "position": 42,
+      "title": "Akademik Personel - Ziraat Fakültesi Tarla Bitkileri Bölümü",
+      "link": "https://tarla-agr.ege.edu.tr/tr-4479/akademik_personel.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tarla-agr.ege.edu.tr/tr-4479/akademik_personel.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCI4BEAE",
+      "displayed_link": "https://tarla-agr.ege.edu.tr › akadem...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ecd80ccba165ec597f01d39b09d7faf48.png",
+      "snippet": "PERSONEL · Akademik Personel · İdari Personel · Yurtdışı İlişkiler. Akademik Personel. Bitki Islahı ...",
+      "snippet_highlighted_words": [
+        "PERSONEL",
+        "Personel",
+        "Personel",
+        "Personel"
+      ],
+      "source": "Ege Üniversitesi"
+    },
+    {
+      "position": 43,
+      "title": "BÖLÜM AKADEMİK KADROSU - ESOGÜ Ziraat Fakültesi",
+      "link": "https://ziraat.ogu.edu.tr/Sayfa/Index/233/bolum-akademik-kadrosu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ogu.edu.tr/Sayfa/Index/233/bolum-akademik-kadrosu&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJMBEAE",
+      "displayed_link": "https://ziraat.ogu.edu.tr › Index › b...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e18644437e508a570b52708e5f035b6ef.png",
+      "snippet": "Dahili Telefon: 0(222) 239 37 50/4833 · E-Posta: email · Özgeçmiş: YÖK Akademik · Özgeçmiş: AVESİS Akademik · Orchid No: 0000-0003-1340-8040 · Researher ID: AAH ...",
+      "source": "ESOGÜ Ziraat Fakültesi"
+    },
+    {
+      "position": 44,
+      "title": "İdari Personel",
+      "link": "https://ziraat.erdogan.edu.tr/tr/idaripersonel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.erdogan.edu.tr/tr/idaripersonel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKkBEAE",
+      "displayed_link": "https://ziraat.erdogan.edu.tr › idarip...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e4cf736f77e8679f26aaa988b81908208.png",
+      "snippet": "İdari Personel · MUSTAFA KAPTI · FAKÜLTE SEKRETERİ · MERYEM TEMELCİ · BİLGİSAYAR İŞLETMENİ · EMİNE KANTARCI · BİLGİSAYAR İŞLETMENİ · AHMET SABRİ BİNAOĞLU · BİLGİSAYAR ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "FAKÜLTE"
+      ],
+      "source": "Recep Tayyip Erdoğan Üniversitesi, Ziraat Fakültesi"
+    },
+    {
+      "position": 45,
+      "title": "Akademik Personel",
+      "link": "https://www.dicle.edu.tr/tr/birimler/ziraat-fakultesi/sayfalar/akademik-personel-9153",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dicle.edu.tr/tr/birimler/ziraat-fakultesi/sayfalar/akademik-personel-9153&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKwBEAE",
+      "displayed_link": "https://www.dicle.edu.tr › sayfalar",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e8bf298c01bc6e889f57837655eecead0.png",
+      "snippet": "Akademik Personel · YÖK Akademikte Fakültemiz Akademik kadrosunun toplu halde bulunduğu sayfa için burayı tıklayın · Bahçe B. B. Akademik Personel Sayfası · Bitki ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültemiz",
+        "Personel"
+      ],
+      "source": ".:: Dicle Üniversitesi ::."
+    },
+    {
+      "position": 46,
+      "title": "Akademik Personel",
+      "link": "https://ziraat.igdir.edu.tr/en_GB/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.igdir.edu.tr/en_GB/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCK8BEAE",
+      "displayed_link": "https://ziraat.igdir.edu.tr › en_GB",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e6289ff2786422933cf093cc4f0ce1561.png",
+      "snippet": "Doç. Dr. Ersin GÜLSOY · Bölüm Başkanı · Doç. Dr. Mehmet Ramazan BOZHÜYÜK , Akademisyen · Doç. Dr. Melekşen AKIN Akademisyen · Doç. Dr. Mücahit PEHLUVAN ...",
+      "source": "Iğdır Üniversitesi"
+    },
+    {
+      "position": 47,
+      "title": "Akademik Personel - BAHÇE BİTKİLERİ BÖLÜMÜ",
+      "link": "https://bahcebitkileri.cu.edu.tr/cu/personel/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bahcebitkileri.cu.edu.tr/cu/personel/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMcBEAE",
+      "displayed_link": "https://bahcebitkileri.cu.edu.tr › ak...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e62bc7cfb07c0b20688b0e37ed3b6c7d4.png",
+      "snippet": "Akademik Personel · Prof. Dr. Mithat ÖZSAN · Prof. Dr. Nurettin KAŞKA · Prof. Dr. Muhsin YILMAZ · Prof. Dr. Saadet BÜYÜKALACA · Prof. Dr. Abdurrahman YAZGAN · Ar.Gör.",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Çukurova Üniversitesi"
+    },
+    {
+      "position": 48,
+      "title": "İdari Personel - Ziraat Fakültesi - Harran Üniversitesi",
+      "link": "http://ziraat.harran.edu.tr/tr/fakulte-yonetimi/idari-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ziraat.harran.edu.tr/tr/fakulte-yonetimi/idari-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCM4BEAE",
+      "displayed_link": "http://ziraat.harran.edu.tr › idari-per...",
+      "snippet": "İdari Personel ; 1. Ziraat Fakültesi İdari Personel Listesi ; 2. Ziraat Fakültesi Ziraat ve Veterinerlik Döner Sermaye Şube Müdürlüğü İdari Personeli ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Ziraat Fakültesi",
+        "Personel",
+        "Ziraat Fakültesi",
+        "Personeli"
+      ],
+      "source": "Harran Üniversitesi"
+    },
+    {
+      "position": 49,
+      "title": "Akademik Personel - Ziraat Fakültesi Bitki Koruma Bölümü",
+      "link": "https://bitkik-agr.ege.edu.tr/tr-3439/akademik_personel.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitkik-agr.ege.edu.tr/tr-3439/akademik_personel.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCN4BEAE",
+      "displayed_link": "https://bitkik-agr.ege.edu.tr › akade...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e5d320bf0142ce515012c239dc0f83318.png",
+      "snippet": "ENTOMOLOJİ ANABİLİM DALI ; Prof. Dr. Ferit TURANLI. (Entomoloji Anabilim Dalı Başkanı). UZMANLIK ALANI: Zararlılara Dayanıklılık, Uygulamalı Entomoloji, Depo ...",
+      "source": "Ege Üniversitesi"
+    },
+    {
+      "position": 50,
+      "title": "İdari Personel - Kırşehir - Ziraat Fakültesi",
+      "link": "https://ziraat.ahievran.edu.tr/hakkimizda/tanitim/idari-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ahievran.edu.tr/hakkimizda/tanitim/idari-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOUBEAE",
+      "displayed_link": "https://ziraat.ahievran.edu.tr › tanitim",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ee2c28055b71249789ca0dc47a3c796c3.png",
+      "date": "May 4, 2021",
+      "snippet": "İdari Personel ; Mahmut ERDOĞAN Memur 0386 280 48 66, Öğrenci İşleri ; Eren SEÇEN Bilgisayar İşletmeni 0386 280 48 65, Öğrenci İşleri. Bölüm ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Ahi Evran Üniversitesi"
+    },
+    {
+      "position": 51,
+      "title": "İdari Personel",
+      "link": "http://ziraat.kilis.edu.tr/sayfa/5085/personel/idari-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ziraat.kilis.edu.tr/sayfa/5085/personel/idari-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOYBEAE",
+      "displayed_link": "http://ziraat.kilis.edu.tr › sayfa › ida...",
+      "snippet": "İDARİ PERSONEL. Mecit ÇELEBİ. Fakülte Sekreteri. Dahili: 7205. e-posta: mcelebi@kilis.edu.tr. Murat AKGÜL. Şef. Dahili: 7226. e-posta:muratakgul@kilis edu.",
+      "snippet_highlighted_words": [
+        "PERSONEL",
+        "Fakülte"
+      ],
+      "source": "Kilis 7 Aralık Üniversitesi"
+    },
+    {
+      "position": 52,
+      "title": "Akademik Personel",
+      "link": "https://www.erbakan.edu.tr/eregliziraat/anabilim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.erbakan.edu.tr/eregliziraat/anabilim&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOkBEAE",
+      "displayed_link": "https://www.erbakan.edu.tr › anab...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e9955b904e965b2dcea2907917b61b1ed.png",
+      "snippet": "Ereğli Ziraat Fakültesi. Birim Menü. FAKÜLTEMİZ. HAKKIMIZDA. Hakkımızda ... AKADEMİK PERSONEL. Personel Filtrele: Bölümler. Tüm Bölümler. Biyosistem ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "PERSONEL",
+        "Personel"
+      ],
+      "source": "Necmettin Erbakan Üniversitesi"
+    },
+    {
+      "position": 53,
+      "title": "Açık Pozisyonlar | İnsan Kaynakları | Bankamız",
+      "link": "https://www.ziraatbank.com.tr/tr/bankamiz/insan-kaynaklari/acik-pozisyonlar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ziraatbank.com.tr/tr/bankamiz/insan-kaynaklari/acik-pozisyonlar&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCOoBEAE",
+      "displayed_link": "https://www.ziraatbank.com.tr › acik-pozisyonlar",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e98e2b05f0ad7353a9b342b635c1c7c1c.png",
+      "snippet": "Ziraat olarak; şubelerimiz, ATM'lerimiz, İnternet Şubemiz, Çağrı Merkezimiz ve diğer kanallarımızla müşterilerimizin tüm bankacılık işlemleri için ...",
+      "snippet_highlighted_words": [
+        "Ziraat"
+      ],
+      "source": "Ziraat Bankası"
+    },
+    {
+      "position": 54,
+      "title": "Akademik Personel - Ziraat Fakültesi",
+      "link": "https://www.pau.edu.tr/ziraat/tr/sayfa/akademik-126",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pau.edu.tr/ziraat/tr/sayfa/akademik-126&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCPkBEAE",
+      "displayed_link": "https://www.pau.edu.tr › sayfa › ak...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0eab6d1cea25b2c432a6fe6c2e4d04c0b5.png",
+      "snippet": "Bilimsel alanda gelişmelere yön veren, yenilikçi eğitim-öğretim uygulamalarında öncü olan, değer üreten ve mükemmelliği esas alan uluslararası üniversite.",
+      "source": "Pamukkale Üniversitesi"
+    },
+    {
+      "position": 55,
+      "title": "Akademik Personel – Tarım Ekonomisi Bölümü",
+      "link": "https://birimler.atauni.edu.tr/tarim-ekonomisi-bolumu/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://birimler.atauni.edu.tr/tarim-ekonomisi-bolumu/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIECEAE",
+      "displayed_link": "https://birimler.atauni.edu.tr › akad...",
+      "snippet": "Akademik Personel · Prof. Dr. Adem Aksoy · Prof. Dr. Ahmet Semih Uzundumlu · Prof. Dr. Atilla Keskin · Prof. Dr. Avni Birinci · Prof. Dr. Fahri Yavuz · Prof. Dr ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Atatürk University"
+    },
+    {
+      "position": 56,
+      "title": "Ziraat Mühendisliği - Akademik Kadro İlanları",
+      "link": "https://hepsiakademik.com/bolum/ziraat-muhendisligi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hepsiakademik.com/bolum/ziraat-muhendisligi&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIACEAE",
+      "displayed_link": "https://hepsiakademik.com › bolum",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e3daf2e538395c5a3e0a212b6d9da1cbe.png",
+      "snippet": "Bursa Uludağ Üniversitesi Öğretim Üyesi ve Elemanı 16 Akademik Personel Alacak. Son Başvuru Tarihi 4 Temmuz 2022. Devamını Oku » · Akademik İlanlar Bahçeşehir ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "hepsi akademik"
+    },
+    {
+      "position": 57,
+      "title": "Akademik Personel",
+      "link": "http://ziraat.kilis.edu.tr/sayfa/423175/personel/akademik-personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ziraat.kilis.edu.tr/sayfa/423175/personel/akademik-personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIgCEAE",
+      "displayed_link": "http://ziraat.kilis.edu.tr › sayfa › ak...",
+      "snippet": "Duyurular RSS · (Dekan Yrd) · (Dekan Yrd) · BAHÇE BİTKİLERİ BÖLÜMÜ · (Bahçe Bitkileri Bölüm Başkanı) · Arş. Gör. Berna ERGUN ÇETİN 7217.",
+      "source": "Kilis 7 Aralık Üniversitesi"
+    },
+    {
+      "position": 58,
+      "title": "İdari Personel – Ziraat ve Doğa Bilimleri Fakültesi",
+      "link": "http://w3.bilecik.edu.tr/ziraat/fakultemiz/personel/idari-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://w3.bilecik.edu.tr/ziraat/fakultemiz/personel/idari-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCIwCEAE",
+      "displayed_link": "http://w3.bilecik.edu.tr › ziraat › fakultemiz › idari-perso...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e20c41a08f80fcc80bccff5b284727600.jpeg",
+      "snippet": "İdari Personel ; Fakülte Sekreteri. Fakülte Sekreteri Mehmet LAÇİN · (0228) 214 1163 ; Makam Sekreteri / Personel İşleri Birim Görevlisi. Tekniker Betül ÇANGA · ( ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakülte",
+        "Fakülte",
+        "Personel"
+      ],
+      "source": "Bilecik Şeyh Edebali Üniversitesi"
+    },
+    {
+      "position": 59,
+      "title": "Personel Görev Tanımı - Ziraat Fakültesi",
+      "link": "https://duzce.edu.tr/akademik/fakulte/zf/50dd/personel-gorev-tanimi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://duzce.edu.tr/akademik/fakulte/zf/50dd/personel-gorev-tanimi&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJoCEAE",
+      "displayed_link": "https://duzce.edu.tr › fakulte › pers...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ed352dae17a1d75a2f9bbfa6b9ec46602.png",
+      "snippet": "Personel Görev Tanımı. Fakültemiz akademik ve idari personel görev tanımları;. Akademik Personel Görev Tanımları · İdari Personel Görev Tanımları.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültemiz",
+        "personel",
+        "Personel",
+        "Personel"
+      ],
+      "source": "Düzce Üniversitesi"
+    },
+    {
+      "position": 60,
+      "title": "KSÜ - Ziraat Fakültesi - Kahramanmaraş Sütçü İmam ...",
+      "link": "https://ziraat.ksu.edu.tr/Default.aspx?SId=13909",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.ksu.edu.tr/Default.aspx%3FSId%3D13909&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJ4CEAE",
+      "displayed_link": "https://ziraat.ksu.edu.tr › Default",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ecab3b90704af511eef23d1e1c8522886.png",
+      "snippet": "Ziraat Fakültesi ; Dr.Öğr.Üyesi MÜCAHİT PAKSOY. Başkan. Dekan Yardımcısı. (344) 300-2003. (344) 300-2170. mpaksoy ; Prof.Dr. DURMUŞ ÖZTÜRK. Üye. Zootekni. (344) ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi"
+      ],
+      "source": "KSÜ - Ziraat Fakültesi"
+    },
+    {
+      "position": 61,
+      "title": "ÇOMÜ-Ziraat Fakültesi - Çanakkale Onsekiz Mart Üniversitesi",
+      "link": "https://ziraat.comu.edu.tr/akademik-performans-r37.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.comu.edu.tr/akademik-performans-r37.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKcCEAE",
+      "displayed_link": "https://ziraat.comu.edu.tr › akademi...",
+      "snippet": "BİTKİ KORUMA BÖLÜMÜ. Prof. Dr. İsmail KASAP · TARIM EKONOMİSİ. Prof. Dr. Sibel TAN · TARIM MAKİNALARI TEKNOLOJİLERİ MÜHENDİSLİĞİ BÖLÜMÜ. Prof. Dr. · TARIMSAL ...",
+      "source": "ÇOMÜ-Ziraat Fakültesi"
+    },
+    {
+      "position": 62,
+      "title": "İdari Kadro | Ziraat Fakültesi",
+      "link": "https://ziraat.subu.edu.tr/tr/idari-kadro-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.subu.edu.tr/tr/idari-kadro-0&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKgCEAE",
+      "displayed_link": "https://ziraat.subu.edu.tr › idari-ka...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ebcc35261d6ab33a1704a419c5ad0a1d0.png",
+      "snippet": "Main Menu · İdari Kadro · Sayfa yolu · Emre ERDOĞDU · Esra GÜL · Dilaver KEKLİKCİ · Yunus ALTUNTAŞ · Taha ŞENGÜL. Teknik Hizmetler Birimi. tahasengul.subu.edu.",
+      "source": "Sakarya Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "position": 63,
+      "title": "İdari Personel - ZİRAAT FAKÜLTESİ - BİNGÖL ÜNİVERSİTESİ",
+      "link": "https://ziraat.bingol.edu.tr/personel/idari-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.bingol.edu.tr/personel/idari-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLYCEAE",
+      "displayed_link": "https://ziraat.bingol.edu.tr › personel",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e0f11898b8eb4a4c9f51467b0dabd7629.png",
+      "snippet": "İdari Personel · HÜSEYİN DOĞAN · Fakülte Sekreter V. · NAZAN ERGUN · Mühendis · ABDULLAH BARCA · Bilgisayar İşletmeni · ZEKİYE YILMAZ · MEMUR.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakülte"
+      ],
+      "source": "BİNGÖL ÜNİVERSİTESİ"
+    },
+    {
+      "position": 64,
+      "title": "Ziraat Fakültesi - Antakya",
+      "link": "https://www.mku.edu.tr/departments.aspx?birim=17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mku.edu.tr/departments.aspx%3Fbirim%3D17&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLcCEAE",
+      "displayed_link": "https://www.mku.edu.tr › departme...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e15ddec08fbe133d79115414340cefef5.png",
+      "snippet": "ana sayfa · akademik personel · formlar ve belgeler · mkü tarım bilimleri dergisi · iş akış şemaları · akademik takvim · şikayet ve öneri formu · ders ıçerikleri - [ ...",
+      "snippet_highlighted_words": [
+        "personel"
+      ],
+      "source": "Hatay Mustafa Kemal Üniversitesi"
+    },
+    {
+      "position": 65,
+      "title": "T.C. ORDU ÜNİVERSİTESİ ZİRAAT FAKÜLTESİ",
+      "link": "https://ziraat.odu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.odu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLoCEAE",
+      "displayed_link": "https://ziraat.odu.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e1c1e3fd3305a3df376d7346b7de7d1fd.png",
+      "snippet": "FAKÜLTE. Akademik Komisyonlar · Yönetim · AKADEMİK. Akademik Personel · Doktora Mezunları · İDARİ. İdari Personel · BÖLÜMLER. Bahçe Bitkileri Bölümü · Bitki Koruma ...",
+      "snippet_highlighted_words": [
+        "FAKÜLTE",
+        "Personel",
+        "Personel"
+      ],
+      "source": "Ordu Üniversitesi"
+    },
+    {
+      "position": 66,
+      "title": "Akademik Personel - YDÜ, Ziraat Fakültesi",
+      "link": "https://ziraat.neu.edu.tr/staff-department/akademik-personel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.neu.edu.tr/staff-department/akademik-personel/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCLgCEAE",
+      "displayed_link": "https://ziraat.neu.edu.tr › akademik-...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e06e37effb47c8de50f17d0a78723a64c.png",
+      "snippet": "18 Ocak 2022. Dr. Sinem YILDIRIM ; 27 Ocak 2024. Dr. Şebnem GÜLER ; 08 Ocak 2024. Prof. Dr. Salih GÜCEL ; 18 Ocak 2022. Yrd. Doç. Dr. Perihan ADUN ; 29 Kasım 2021.",
+      "source": "YDÜ, Ziraat Fakültesi"
+    },
+    {
+      "position": 67,
+      "title": "Bahçe Bitkileri Bölümü",
+      "link": "https://ziraat.gop.edu.tr/KadroAkademik.aspx?d=tr-TR&mk=32440&m=akademik_kadro&bidr=11204&bid=11204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.gop.edu.tr/KadroAkademik.aspx%3Fd%3Dtr-TR%26mk%3D32440%26m%3Dakademik_kadro%26bidr%3D11204%26bid%3D11204&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEMQAQ",
+      "displayed_link": "https://ziraat.gop.edu.tr › KadroAka...",
+      "snippet": "Bahçe Bitkileri Bölümü · Bahçe Bitkileri Böl. 10. Tanıtım · Yönetim · Akademik Kadro · Bağ Yetiştirme ve Islahı AD. 3. Tanıtım · Yönetim · Akademik Kadro · Meyve ...",
+      "source": "Tokat Gaziosmanpaşa Üniversitesi Ziraat Fakültesi"
+    },
+    {
+      "position": 68,
+      "title": "Ziraat Fakültesi / Personel / idari - Şırnak Üniversitesi",
+      "link": "https://ziraat.sirnak.edu.tr/tr/personel/idari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.sirnak.edu.tr/tr/personel/idari&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEYQAQ",
+      "displayed_link": "https://ziraat.sirnak.edu.tr › personel",
+      "snippet": "HALEF NAS. Fakülte Sekreteri ; KADER ERSOY. Şef ; MEHMET ALİ ÖZDEMİR. Memur ; HALİL UMAÇ. Tekniker ; FAHRETTİN AKİBAZ. Hizmetli.",
+      "snippet_highlighted_words": [
+        "Fakülte"
+      ],
+      "source": "Şırnak Üniversitesi"
+    },
+    {
+      "position": 69,
+      "title": "Akademik | ADYÜ Ziraat Fakültesi",
+      "link": "https://ziraat.adiyaman.edu.tr/tr/kisiler/akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.adiyaman.edu.tr/tr/kisiler/akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEgQAQ",
+      "displayed_link": "https://ziraat.adiyaman.edu.tr › ak...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e70c35f7c2822f22d56216e5b5512946b.png",
+      "snippet": "Gökhan BÜYÜK (Doç. Dr.) ; Bahçe Bitkileri Bölümü3. Halil İbrahim OĞUZ (Prof. Dr.) Unvan Bahçe Bitkileri Bölüm Başkanı ; Bitki Koruma Bölümü5. Mahmut İSLAMOĞLU ( ...",
+      "source": "Ziraat Fakültesi | ADYÜ"
+    },
+    {
+      "position": 70,
+      "title": "Bitkisel Üretim ve Teknolojileri",
+      "link": "https://www.ohu.edu.tr/tarimbilimlerifakultesi/bitkiseluretim/AkademikPersonel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ohu.edu.tr/tarimbilimlerifakultesi/bitkiseluretim/AkademikPersonel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECEcQAQ",
+      "displayed_link": "https://www.ohu.edu.tr › Akademik...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e970f8ee748e0ffb4bdbabd648f94be42.png",
+      "snippet": "Niğde Ömer Halisdemir Üniversitesi akademik Personel ... Adres : Ömer Halisdemir Üniversitesi, Tarım Bilimleri ve Teknolojileri Fakültesi, Bitkisel Üretim ve ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültesi"
+      ],
+      "source": "Niğde Ömer Halisdemir Üniversitesi"
+    },
+    {
+      "position": 71,
+      "title": "Ziraat Fakültesi",
+      "link": "https://www.selcuk.edu.tr/Birim/fakulteler/ziraat_fakultesi/1834",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.selcuk.edu.tr/Birim/fakulteler/ziraat_fakultesi/1834&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECFwQAQ",
+      "displayed_link": "https://www.selcuk.edu.tr › Birim",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e8984c345aa0fbc84284ff6ef071182b8.png",
+      "snippet": "HIZLI ERİŞİM · Personel · Akademik Personel İdari Personel · Bölümler · Bahçe Bitkileri · Yönetim · Hakkında · İç Kontrol · Görev Tanımları Organizasyon Şeması İş ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Personel",
+        "Personel"
+      ],
+      "source": "- Selçuk Üniversitesi -"
+    },
+    {
+      "position": 72,
+      "title": "İdari Personel - BAİBÜ - Ziraat Fakültesi",
+      "link": "http://zdf.ibu.edu.tr/idari-personel/personel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://zdf.ibu.edu.tr/idari-personel/personel&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECF0QAQ",
+      "displayed_link": "http://zdf.ibu.edu.tr › idari-personel",
+      "date": "Jan 30, 2024",
+      "snippet": "İdari Personel ; Ünvan. Ad Soyad. Telefon. Email. Büro Personeli. Taha Zekeriya ESMERAY. 0374 254 10 00 / 6206. tahazekeriya.esmeray@ibu.edu.tr.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Personeli"
+      ],
+      "source": "BAİBÜ - Ziraat Fakültesi"
+    },
+    {
+      "position": 73,
+      "title": "Ziraat Fakültesi Öğretim Üyelerinin Siirt ...",
+      "link": "https://ziraat.siirt.edu.tr/duyuru/ziraat-fakultesi-ogretim-uyelerinin-siirt-universitesi-akademik-personel-bilim-tesvik-odul-ve-binis-giyme-torenindeki-basarilari/227063867.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.siirt.edu.tr/duyuru/ziraat-fakultesi-ogretim-uyelerinin-siirt-universitesi-akademik-personel-bilim-tesvik-odul-ve-binis-giyme-torenindeki-basarilari/227063867.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECGMQAQ",
+      "displayed_link": "https://ziraat.siirt.edu.tr › duyuru",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e61d2cf18eb821f4faa86578d3427d4a7.png",
+      "date": "Dec 28, 2023",
+      "snippet": "Dr. M. Fırat BARAN “Fen Bilimleri Alanında Akademik Personel Bilim Teşvik Ödülü” alanında üçüncülük ödülünü aldılar. Peyzaj Mimarlığı Bölümü ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Siirt Üniversitesi"
+    },
+    {
+      "position": 74,
+      "title": "Fethiye Ziraat Fakültesi - Muğla Sıtkı Koçman Üniversitesi",
+      "link": "https://ziraat.mu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.mu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECGIQAQ",
+      "displayed_link": "https://ziraat.mu.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0edafd97757266e8bd1a0549be3081e454.png",
+      "snippet": "Akademik Personel · İdari Personel · Bilgi Paketi · Belgeler/Formlar. Duyurular. 14Şubat. Yeni. Bitki Koruma Bölümü 2023-2024 Eğitim-Öğretim Yılı Bahar Yarıyılı ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Personel"
+      ],
+      "source": "Fethiye Ziraat Fakültesi"
+    },
+    {
+      "position": 75,
+      "title": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ - Ziraat Fakültesi ...",
+      "link": "https://ziraat.bandirma.edu.tr/tr/ziraat/Personel/Akademik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziraat.bandirma.edu.tr/tr/ziraat/Personel/Akademik&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHUQAQ",
+      "displayed_link": "https://ziraat.bandirma.edu.tr › ziraat",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e3b831dd24f5cd3927a4f5d8b2c889240.png",
+      "snippet": "Bilgi: Dahili numaradan personele ulaşabilmek için \"+90 266 717 01 17\" telefon numarasını arayarak dahili numaraları çevirebilirsiniz.",
+      "snippet_highlighted_words": [
+        "personele"
+      ],
+      "source": "Bandırma Onyedi Eylül Üniversitesi"
+    },
+    {
+      "position": 76,
+      "title": "Ziraat Fakültesi",
+      "link": "https://www.pau.edu.tr/ziraat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pau.edu.tr/ziraat&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHYQAQ",
+      "displayed_link": "https://www.pau.edu.tr › ziraat",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e0b8a5eeb9bbdee648f92837504a898e1.png",
+      "snippet": "ETKİNLİKLER · Sempozyum. 16 Kasım 2023. Cumhuriyetimizin 100. Yılına Özel 4. Ulusal Ceviz Sempozyumu. PAÜ Eğitim Fakültesi · Etkinlik. 04 Ekim 2023. Ziraat ...",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "Ziraat"
+      ],
+      "source": "Pamukkale Üniversitesi"
+    },
+    {
+      "position": 77,
+      "title": "Kamu-Akademik Personel / Akademik Personel Alımları ...",
+      "link": "https://www.ilan.gov.tr/ilan/kategori/73/akademik-personel-alimlari?ats=5&currentPage=4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilan.gov.tr/ilan/kategori/73/akademik-personel-alimlari%3Fats%3D5%26currentPage%3D4&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHgQAQ",
+      "displayed_link": "https://www.ilan.gov.tr › kategori",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ebc69a8413bd6781eaefc86957c1fd028.png",
+      "snippet": "Kamu-Akademik Personel, Akademik Personel Alımları kategorisine ait ilanlar ilan.gov.tr'de.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Personel"
+      ],
+      "source": "ilan.gov.tr"
+    },
+    {
+      "position": 78,
+      "title": "İNÖNÜ ÜNİVERSİTESİ",
+      "link": "http://www.inonu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.inonu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHwQAQ",
+      "displayed_link": "http://www.inonu.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ec4ef75a6c7fd57e5fef2de4221c413a8.png",
+      "snippet": "İlk olarak Temel Bilimler Fakültesi ve Eğitim Fakültesi olarak kuruldu. 28 ... Personel. Mezun.",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "Fakültesi",
+        "Personel"
+      ],
+      "source": "İNÖNÜ ÜNİVERSİTESİ"
+    },
+    {
+      "position": 79,
+      "title": "Tanıtım Videosu - Ziraat Fakültesi Zootekni Bölümü",
+      "link": "https://zootekni-agr.ege.edu.tr/tr-5325/tanitim_videosu.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zootekni-agr.ege.edu.tr/tr-5325/tanitim_videosu.html&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECHsQAQ",
+      "displayed_link": "https://zootekni-agr.ege.edu.tr › tan...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e8c4160e3b2d2bee7471abbcc667e8992.png",
+      "snippet": "Ziraat Fakültesi Zootekni Bölümü Resmi Web Sayfası. ... İdari Personel. ÖĞRENCİLERİMİZ İÇİN. Eğitim Amaçları · Lisans Eğitimi · Lisansüstü ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "Personel"
+      ],
+      "source": "Ege Üniversitesi"
+    },
+    {
+      "position": 80,
+      "title": "Dokuz Eylül Üniversitesi | Resmi Web Sitesi",
+      "link": "https://www.deu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCI0BEAE",
+      "displayed_link": "https://www.deu.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e2cbe60df445ea7085f7f5455ca4403dc.png",
+      "snippet": "Personel E-Posta; Öğrenci E-Posta · Bilgi Güvenliği · KVKK ... Buca Eğitim Fakültesi · Denizcilik Fakültesi · Diş Hekimliği Fakültesi · Edebiyat Fakültesi · Fen ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültesi",
+        "Fakültesi",
+        "Fakültesi",
+        "Fakültesi"
+      ],
+      "source": "Dokuz Eylül Üniversitesi"
+    },
+    {
+      "position": 81,
+      "title": "Gaziantep Üniversitesi",
+      "link": "https://www.gantep.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gantep.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJQBEAE",
+      "displayed_link": "https://www.gantep.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e126b6b1d21178400beec915af16c625f.png",
+      "snippet": "Güncel Öğrenci Personel İlan/Kadro +Kampüs Özel / Yaşam. 01 Mart 1-7 Mart ... Fakülteleri Dekanlar Konseyi tarafından hazırlanan yarışmada GAÜN İlahiyat Fakültesi ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakülteleri",
+        "Fakültesi"
+      ],
+      "source": "Gaziantep Üniversitesi"
+    },
+    {
+      "position": 82,
+      "title": "Kayseri Üniversitesi",
+      "link": "https://www.kayseri.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kayseri.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJUBEAE",
+      "displayed_link": "https://www.kayseri.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e69a7ac79a6009a3469ca7a5795e1686e.png",
+      "snippet": "Mühendislik, Mimarlık ve Tasarım Fakültesi Mühendislik Temel Bilimleri Bölümü Öğretim Üyemiz Doç. ... Akademik Personel Sayıları · Öğrenci Sayıları · Formlar ...",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "Personel"
+      ],
+      "source": "Kayseri Üniversitesi"
+    },
+    {
+      "position": 83,
+      "title": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa",
+      "link": "https://www.sivas.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sivas.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCJIBEAE",
+      "displayed_link": "https://www.sivas.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e0d8e4b48602fb7ba3d6f106981c3e7c1.png",
+      "snippet": "Thumb. SBTÜ 2023 Yılı Yeni Kayıt Öğrenci Oryantasyon Programı · Thumb. Tarım Bilimleri ve Teknoloji Fakültesi, Bitki Koruma Bölümü · Thumb. Sivas Meslek ...",
+      "snippet_highlighted_words": [
+        "Fakültesi"
+      ],
+      "source": "Sivas Bilim ve Teknoloji Üniversitesi"
+    },
+    {
+      "position": 84,
+      "title": "Bartın Üniversitesi",
+      "link": "https://w3.bartin.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://w3.bartin.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKgBEAE",
+      "displayed_link": "https://w3.bartin.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ea28c0a0012de3f2b52dfcaf4bac299cd.png",
+      "snippet": "Duyurular Arşiv · 01 Mart. Sözleşmeli Personel Alım İlanı Ön Değerlendirme Sonuçları (2024-03) · 27 Şubat. \"Çanakkale Ruhu\" Temalı Fotoğraf Yarışması · 26 Şubat.",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Bartın Üniversitesi"
+    },
+    {
+      "position": 85,
+      "title": "Bayburt Üniversitesi",
+      "link": "https://bayburt.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bayburt.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKoBEAE",
+      "displayed_link": "https://bayburt.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e9fd84c3c408c7130a8b9c5ff4d426849.png",
+      "snippet": "Fakülte. Eğitim · İktisadi ve İdari Bilimler · İlahiyat · İnsan ve Toplum Bilimleri ... Personel · Sağlık, Kültür ve Spor · Strateji Geliştirme · Yapı İşleri ve ...",
+      "snippet_highlighted_words": [
+        "Fakülte",
+        "Personel"
+      ],
+      "source": "Bayburt Üniversitesi"
+    },
+    {
+      "position": 86,
+      "title": "Duyurular",
+      "link": "https://www.erbakan.edu.tr/duyurular",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.erbakan.edu.tr/duyurular&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCKsBEAE",
+      "displayed_link": "https://www.erbakan.edu.tr › duyu...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e22e6be16946f0f73b8bdb55dd50c60e1.png",
+      "snippet": "Ereğli Ziraat Fakültesi (2020) · Fen Fakültesi (2010) · Güzel Sanatlar ve ... Tümü Personel Lisansüstü Eğitim Sürekli Eğitim Rektörlük Sosyal Bilimler Öğrenci ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "Personel"
+      ],
+      "source": "Necmettin Erbakan Üniversitesi"
+    },
+    {
+      "position": 87,
+      "title": "Çankırı Karatekin Üniversitesi",
+      "link": "https://www.karatekin.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.karatekin.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCK0BEAE",
+      "displayed_link": "https://www.karatekin.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ebf357468f2af98cb2527e16ed4a8b851.png",
+      "snippet": "ÇAKÜ İnsan ve Toplum Bilimleri Fakültesi Açılışı Gerçekleştirildi ... Personel. Kampüste Yaşam. Kalite Komisyonu · Bize Ulaşın · OBS (E-Kampüs) · Aylık Yemek ...",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "Personel"
+      ],
+      "source": "Çankırı Karatekin Üniversitesi"
+    },
+    {
+      "position": 88,
+      "title": "Personel Daire Başkanlığı",
+      "link": "https://www.dicle.edu.tr/birimler/personel-daire-baskanligi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dicle.edu.tr/birimler/personel-daire-baskanligi&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCK4BEAE",
+      "displayed_link": "https://www.dicle.edu.tr › birimler",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e10aa8a9e1ece5dc9cf82f34c70db8076.png",
+      "snippet": "... FakültesiMühendislik FakültesiSanat ve Tasarım FakültesiTıp FakültesiUygulamalı Bilimler FakültesiVeteriner FakültesiZiraat FakültesiZiya Gökalp Eğitim ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi"
+      ],
+      "source": ".:: Dicle Üniversitesi ::."
+    },
+    {
+      "position": 89,
+      "title": "Konya Gıda ve Tarım Üniversitesi",
+      "link": "https://www.gidatarim.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gidatarim.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMMBEAE",
+      "displayed_link": "https://www.gidatarim.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e02feaf3fd819414cd49b585662de649d.png",
+      "snippet": "KGTÜ - Konya Gıda ve Tarım Üniversitesi. Rektör Prof. Dr. Erol TURAN.",
+      "source": "Konya Gıda ve Tarım Üniversitesi"
+    },
+    {
+      "position": 90,
+      "title": "Hakkari Üniversitesi",
+      "link": "https://hakkari.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hakkari.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMQBEAE",
+      "displayed_link": "https://hakkari.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ea0183eb1858d723415a4824e0adba39f.png",
+      "snippet": "Personel Daire Başkanlığı ... Üniversitemiz Hemşirelik Bölümü Öğrencileri Üniforma Giydi. Üniversitemiz Sağlık Bilimleri Fakültesi Hemşirelik Bölümü birinci ve ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültesi"
+      ],
+      "source": "Hakkari Üniversitesi"
+    },
+    {
+      "position": 91,
+      "title": "Akademik Personel Alımları / Araştırma Görevlisi & Öğretim ...",
+      "link": "https://www.ilan.gov.tr/ilan/kategori/693/arastirma-gorevlisi-ogretim-gorevlisi-uzman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilan.gov.tr/ilan/kategori/693/arastirma-gorevlisi-ogretim-gorevlisi-uzman&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCMgBEAE",
+      "displayed_link": "https://www.ilan.gov.tr › kategori",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e981b8596c2883f03c884206da115e65e.png",
+      "snippet": "Akademik Personel Alımları, Araştırma Görevlisi & Öğretim Görevlisi & Uzman kategorisine ait ilanlar ilan.gov.tr'de.",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "ilan.gov.tr"
+    },
+    {
+      "position": 92,
+      "title": "Bitlis Eren Üniversitesi",
+      "link": "https://www.beu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.beu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCM0BEAE",
+      "displayed_link": "https://www.beu.edu.tr",
+      "snippet": "Anadolu Üniversitesi ( AOF ) Bahar Dönemi Ara Sınavı Görevlendirme Tercih İşlemleri... 21. ŞUBAT. 4/B Sözleşmeli Personel Alımı Yedek Listeden Atanmaya Hak ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "Bitlis Eren Üniversitesi"
+    },
+    {
+      "position": 93,
+      "title": "ADIYAMAN ÜNİVERSİTESİ | ADYÜ",
+      "link": "https://adiyaman.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://adiyaman.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoFCM8BEAE",
+      "displayed_link": "https://adiyaman.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e548f8ce561c455504c196fd5c69443c2.png",
+      "snippet": "Ziraat Fakültesi · Devlet Konservatuvarı; Yüksekokullar. Yabancı Diller ... PERSONEL. ADYÜ E-PostaÜniversitemizin kurumsal elektronik posta hizmeti · ADYÜ EBYS ...",
+      "snippet_highlighted_words": [
+        "Ziraat Fakültesi",
+        "PERSONEL"
+      ],
+      "source": "ADIYAMAN ÜNİVERSİTESİ"
+    },
+    {
+      "position": 94,
+      "title": "KTÜN - Konya Teknik Üniversitesi | Gelişimin Öncüsü",
+      "link": "https://www.ktun.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ktun.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECCsQAQ",
+      "displayed_link": "https://www.ktun.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0ec7d52413626053aaf9097e6cbc4eccf7.png",
+      "snippet": "Tarım Bilimleri ve Teknolojileri Fakültesi. Teknik Meslek YüksekOkulları ... Üniversitemizde, Akademik, İdari Personel ile Öğrencilere Yönelik “Veri Tabanı ...",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "Personel"
+      ],
+      "source": "Konya Teknik Üniversitesi"
+    },
+    {
+      "position": 95,
+      "title": "Aksaray Üniversitesi",
+      "link": "https://www.aksaray.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aksaray.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECDAQAQ",
+      "displayed_link": "https://www.aksaray.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e91828c948c55ad1cf8ec3f6698de4c6a.png",
+      "snippet": "4/B sözleşmeli personel alımı. Alımlar sadece KPSS puanına göre yapılacaktır ... Aksaray Üniversitesin (ASÜ) Sabire Yazıcı Fen Edebiyat Fakültesi Dekanlığına Prof ...",
+      "snippet_highlighted_words": [
+        "personel",
+        "Fakültesi"
+      ],
+      "source": "Aksaray Üniversitesi"
+    },
+    {
+      "position": 96,
+      "title": "Bakırçay Üniversitesi",
+      "link": "https://bakircay.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bakircay.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECC4QAQ",
+      "displayed_link": "https://bakircay.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e617c67b53453df95253920e4dcbe2e6e.png",
+      "snippet": "Personel; Kadro/İlan. 26 Şubat 2024Öğrenci ... İnsan ve Toplum Bilimleri Fakültesi Tarih Bölümü Tarafından Geleneksel Türk Okçuluğu Uygulamalı Dersi Düzenlendi.",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültesi"
+      ],
+      "source": "Bakırçay Üniversitesi"
+    },
+    {
+      "position": 97,
+      "title": "Genel Müdürümüz",
+      "link": "https://www.tarimorman.gov.tr/PERGEM/Menu/17/Genel-Mudurumuz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tarimorman.gov.tr/PERGEM/Menu/17/Genel-Mudurumuz&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECCoQAQ",
+      "displayed_link": "https://www.tarimorman.gov.tr › G...",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e9e9d9c76389ffd4fe79bdb76b8dbad95.png",
+      "snippet": "Personel Genel Müdürü · İlkokul öğrenimini yeşildere ilkokulunda, orta ve lise öğrenimini Konya İmam Hatip Lisesinde, yükseköğrenimini Dokuz Eylül Üniversitesi ...",
+      "snippet_highlighted_words": [
+        "Personel"
+      ],
+      "source": "TARIM VE ORMAN BAKANLIĞI"
+    },
+    {
+      "position": 98,
+      "title": "Artvin Çoruh Üniversitesi",
+      "link": "https://www.artvin.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.artvin.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECCkQAQ",
+      "displayed_link": "https://www.artvin.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0efe65abba8209e2bf1ef335ad9886efdc.png",
+      "snippet": "Personel Daire Başkanlığı · Öğrenci İşleri Daire Başkanlığı · Kütüphane ve ... Orman Fakültesi Dergisi · Doğal Afetler ve Çevre Dergisi · Akademik-Us İlahiyat ...",
+      "snippet_highlighted_words": [
+        "Personel",
+        "Fakültesi"
+      ],
+      "source": "Artvin Çoruh Üniversitesi"
+    },
+    {
+      "position": 99,
+      "title": "Karamanoğlu Mehmetbey Üniversitesi",
+      "link": "https://www.kmu.edu.tr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kmu.edu.tr/&ved=2ahUKEwj0n6CxqtWEAxWfMlkFHWqxAvcQFnoECC8QAQ",
+      "displayed_link": "https://www.kmu.edu.tr",
+      "favicon": "https://serpapi.com/searches/65e2fa315c56065a874ecd76/images/39fe5974d65d0189eafea7e11fa7fc0e330c0d96396f2425ae7525b8b1f36ef7.png",
+      "snippet": "KMÜ Ermenek MYO Tanıtımı. KMÜ İktisadi ve İdari Bilimler Fakültesi Tanıtımı. 20996 +. ÖĞRENCİ. 40405 +. MEZUN ÖĞRENCİ. 869 +. AKADEMİK PERSONEL. 343 +. İDARİ ...",
+      "snippet_highlighted_words": [
+        "Fakültesi",
+        "PERSONEL"
+      ],
+      "source": "Karamanoğlu Mehmetbey Üniversitesi"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Ziraat+Fak%C3%BCltesi+%2B+personel&oq=Ziraat+Fak%C3%BCltesi+%2B+personel&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ziraat+Fak%C3%BCltesi+%2B+personel&start=400"
+    }
   }
 }
