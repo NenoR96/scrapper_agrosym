@@ -78,7 +78,6 @@ const processGoogleResults = async (google_results, filename) => {
   const file_name = `./downloads/${encodeURIComponent(filename)}.json`;
   const process = async () => {
     for (const site of google_results.organic_results) {
-      console.log("site", site);
       const siteHTML = await fetchPage(site.link);
       if (typeof siteHTML !== "string") continue;
       console.log(typeof siteHTML, site.link);
@@ -102,7 +101,6 @@ const processGoogleResults = async (google_results, filename) => {
     scrappedData.forEach((element) => {
       arr = arr.concat(element.emails);
     });
-    console.log(arr.length);
     return scrappedData;
   };
 
@@ -125,11 +123,9 @@ module.exports = scrapePage = async (query, page) => {
     const data = await fetchGoogleResults(query, currentPage);
     if (Array.isArray(data.organic_results)) {
       currentPage++;
-      console.log("moze opet");
       await processGoogleResults(data, query);
       get();
     } else {
-      console.log("stalo je");
       return;
     }
   };
@@ -139,7 +135,6 @@ module.exports = scrapePage = async (query, page) => {
 
 const scrape = async (query) => {
   const done = await scrapePage(query, 0);
-  console.log("me", done);
   const data = fs.readFileSync(`./downloads/${encodeURIComponent(query)}.json`);
   return JSON.parse(data);
 };

@@ -5,7 +5,6 @@ const cheerio = require("cheerio");
 const converter = require("json-2-csv");
 
 module.exports = fetchPage = async (url) => {
-  console.log(url);
   try {
     const response = await fetch(url);
     if (!response.ok) {
