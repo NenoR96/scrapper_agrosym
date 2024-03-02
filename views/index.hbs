@@ -1,0 +1,35 @@
+<div>
+    <form action="/" method="post">
+        <div class="form-group">
+            <label>Website URL(s)</label>
+            <textarea rows="3" id="websiteUrl" name="websiteUrl" class="form-control" placeholder="Example: http://ziraat-en.nku.edu.tr/staffpage/0/s/4584/4769"></textarea>
+            <button style="margin-top: 10px;" class="btn btn-primary btn-md btn-block">Scrape</button>
+        </div>
+        <hr>
+        <div class="form-group">
+            <label>Google Search</label>
+            <input type="text" placeholder="Example: Faculty of Agriculture + staff" id="google_search" name="google_search"
+                class="form-control">
+            <button style="margin-top: 10px;" class="btn btn-primary btn-md btn-block">Search</button>
+        </div>
+    </form>
+</div>
+<br>
+<br>
+<div id="results">
+    <h5>Results</h5>
+</div>
+
+<script>
+    const checkValues = () => {
+        google_search.disabled = websiteUrl.value ? true : false;
+        websiteUrl.disabled = google_search.value ? true : false;
+    }
+    google_search.onchange = () => {
+        checkValues();
+    }
+
+    websiteUrl.onchange = () => {
+        checkValues();
+    }
+</script>
