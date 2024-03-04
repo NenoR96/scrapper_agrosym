@@ -83,7 +83,7 @@ const processGoogleResults = async (google_results, filename) => {
       console.log(typeof siteHTML, site.link);
       // Parse the JSON data
       const $ = cheerio.load(siteHTML);
-      const siteBody = $("body").text();
+      const siteBody = $("body").html().toString();
       const emailExpression = Array.from(
         new Set(
           siteBody.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gi)
